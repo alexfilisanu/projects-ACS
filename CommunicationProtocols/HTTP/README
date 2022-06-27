@@ -1,0 +1,43 @@
+Filisanu Mihai-Alexandru
+324CB
+
+	Am folosit ca schelet pentru realizarea temei rezolvarea postata pentru
+laboratorul 10(Protocolul HTTP). Am ales sa folosesc ca limbaj de programare
+C, iar astfel am preluat de pe https://github.com/kgabis/parson fisierele
+parson.c si parson.h.
+
+	In request am pastrat functiile char *compute_post_request, char *compute_get_request
+si am adaugat char *compute_delete_request, in plus fata de scheletul din lab aparand
+si tipul cererii DELETE.
+
+	In client.c, ma folosesc de 2 variabile loginCheck si libraryCheck
+pe care le initializez cu 0. In acestea retin daca cineva este logat, 
+respectiv daca a accesat biblioteca. Intr-un while(1) citesc comenzile 
+de la tastatura, pana intalnesc comanda exit, caz in care programul se 
+opreste. Pentru celelalte comenzi am definit cate o functie pe care o 
+apelez in fiecare caz:
+	- register: creez un nou utilizator respectand formatul json, iar prin
+interactiunea ulterioara cu serverul verific daca acesta exista deja sau nu,
+afisand un mesaj corespunzator in fiecare caz;
+	- login: verific ca niciun utilizator sa fie logat, iar in cazul acesta
+incerc logarea acestuia, verificand cu ajutorul cookie daca credentialele se
+potrivesc;
+	- enter_library: verific daca este un client logat, numai in acest caz 
+avnd sens comanda. Apoi verific daca am acces la biblioteca, iar in caz ca 
+da ma conectez la aceasta;
+	- get_books: verific ca biblioteca sa fi fost accesata, numai in acest
+caz avand sens comanda. Daca aceasta a fost accesata, afisez cartile in
+format json.
+	- get_book: verific ca biblioteca sa fi fost accesata, numai in acest
+caz avand sens comanda. Daca a fost accesata preiau id-ul cartii cerute, iar
+in cazul in care exista o afisez;
+	- add_book: verific ca biblioteca sa fi fost accesata, numai in acest caz
+avand sens comanda. Daca a fost accesata preiau de la tastatura date despre
+aceasta, verificand la fiecare pas sa fie valide. Daca toate conditiile
+sunt indeplinite cu succes adaug cartea.
+	- delete_book: verific ca biblioteca sa fi fost accesata, numai in acest
+caz aavand sens comanda. Daca a fost preiau id-ul cartii cerute si incerc
+sa o sterg. In cazul in care cartea nu exista inainte afisez acest lucru.
+	- logout: verific ca cineva sa fi fost logat, numai in acest caz avand
+sens comanda. Daca cineva era logat il deconectez si setez parametrii
+loginCheck si libraryCheck la 0;
