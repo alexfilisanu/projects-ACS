@@ -1,0 +1,32 @@
+# Filisanu Mihai-Alexandru #
+# 324 CB #
+
+Task 1:
+    Folosesc loop (registrul ecx contine lungimea) pentru parcurgerea inversa a cheii. 
+In acelasi timp, folosesc si contorul ebx (= 0 la inceput) pentru parcurgerea in ordine
+a plaintext ului. Cu ajutorul registrului al calculez plain[i] ^ key[len - i - 1] si il 
+atribui ciphertext[i].
+
+Task 2:
+    Interschimb registrele edx si ecx pentru a putea folosi direct instructiunea loop,
+urmand a le interschimba iar la finalul programului + ebx (= 0 la inceput) drept contor.
+    Fac diferenta intre anul nasterii si anul present + salvez rezultatul in all_ages pe 
+pozitia aferenta. Daca luna present >= luna nasterii, calculez diferenta dintre ele si 
+apar cazurile: - rezultat < 0 => scad 1 din varsta
+               - rezultat == 0 => fac diferenta dintre ziua present si ziua nasterii =>
+    => daca rezultat < 0 => scad 1 din varsta
+Daca varsta a ajuns < 0 => atribui varstei valoarea 0.
+
+Task 3:
+    Am definit in .data urmatoarele variabile pentru usurinta rezolvarii task ului:
+    - counter_key - parcurgerea vectorului key (= 0 la inceput)
+    - counter_rez - parcurgerea vectorului haystack (= 0 la inceput)
+    - nr_steps - numarul de iteratii din primul loop (= len_cheie)
+    - len_plain - numarul de linii (= len_haystack / len_cheie + 1)
+    - counter_plain - parcurgerea liniilor (= 0 la inceputul primului loop)
+    - key_value - valoarea cheii
+    - nr_steps2 - numarul de iteartii din al doilea loop (= 0 la inceputul primului loop)
+    Pentru scrierea criptata am dedus formula: counter_plain (0 : nr linii - 1) * 
+len_cheie + key_value. Verific ca valoarea obtinuta sa nu depaseasca lungimea haystack, 
+iar daca nu depaseste, atribui pe pozitia aferenta din ciphertext valoarea elementului 
+de pe pozitia calculata anterior din haystack.  

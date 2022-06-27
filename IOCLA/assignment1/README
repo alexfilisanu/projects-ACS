@@ -1,0 +1,37 @@
+    /* Filisanu Mihai-Alexandru --- 324CB */
+
+    Implementarea functiilor: 
+    - stop elibereaza memoria alocata dinamic in program incepand cu directorul
+primit ca parametru; se apeleaza recursiv pentru fiecare director;
+    - touch creeaza un fisier cu numele cerut in caz ca acesta nu exista deja;
+astfel, dupa creare trebuie inserat la finalul listei fisierelor (cazuri: 
+head, !head);
+    - mkdir este identic in functionalitate ca touch, doar ca in loc de fisier 
+creeaza un director;
+    - ls parcurge listele directoarelor respectiv fisierelor si afiseaza numele 
+elementelor;
+    - rm elimina fisierul cu numele indicat in caz ca acesta exista (+elibereaza 
+memoria care ii fusese alocata);
+    - rmdir este identic in functionalitate cu rm, doar ca in loc de un fisier 
+sterge un director (+tot ce este in interiorul acestuia prin apelarea recursiva 
+a functiei stop definita anterior);
+    - cd modifica directorul curent in cel specificat in caz ca acesta exista;
+daca este apelat cu numele ".." directorul curent devine parintele acestuia in 
+caz ca exista;
+    - pwd returneaza un sir de caractere ce contine calea completa; parcurg
+directorele parinte si introduc numele acestora la inceputul string ului deja
+existent cu ajutorul functiei sprintf;
+    - tree afiseaza interiorul directorului intr-o forma arborescenta; parcurg
+fisierele si directoarele (apelez recursiv functia tree pentru acestea, cu 
+parametrul level incrementat);
+    - mv modifica numele vechi al unui fisier/director in unul nou daca numele 
+nou nu exista deja sau daca numele vechi se afla in interiorul directorului;
+pastrez o referinta catre structura pe care o elimin temporar din lista (cazuri: 
+singurul element, head, !head) si o adaug la finalul acesteia cu numele schimbat;
+
+    In main creez directorul "home" si apoi parcurg pe rand comenzile pana la
+intalnirea comenzii stop. La final apelez "stop(home)" pentru eliberarea 
+intregii memorii alocate in program.
+
+    Daca memoria nu a putut fi alocata corespunzator programul se termina cu un 
+cod de eroare (1). 
