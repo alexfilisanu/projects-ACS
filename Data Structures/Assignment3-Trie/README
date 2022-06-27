@@ -1,0 +1,23 @@
+/* Filisanu Mihai-Alexandru -- 314CB */
+
+    Punctaj local: 110p.
+
+    Fisierul trie.c contine operatiile folosite pentru arborii de tip Trie.
+ConstrNod returneaza adresa noului nod pentru care am alocat memoria. InserareT1
+si InserareT2 insereaza informatia primita in arborii de tip T1 respectiv T2.
+CautaInfo returneaza informatia aflata in frunza arborelui. AfisareInfo3 afiseaza 
+primele 3 informatii cerute din arbore, iar AfisareInfoTot pe toate. Functia
+AfisareInfoDif3 afiseaza primele 3 informatii diferite din arbore si ContinuarePrefix
+parcurge calea dintr-un arbore pana la frunza care marcheaza inceputul altui arbore.
+In plus, indexAlfabet primeste un caracter si returneaza indexul acestuia din alfabet.
+
+    Fisierul tema3.c contine structura de tip TCarte si functiile folosite in implementarea
+cerintelor. Functiile afiTitlu si afiAutor afiseaza informatia (titlu/autor) din structura.
+add_book ii corespunde comenzii cu acelasi nume, cu datele citite creeaza structura TCarte
+pe care o adauga in arborii T1 si T2. Functia search_book cauta informatia despre o carte in
+arborele T1 si, daca exista, o afiseaza. prefix_search_book afiseaza priemele 3 carti din
+arborele T1 care are prefixul primit. list_author cauta in arborele T2, arborele autorului 
+indicat (arbore tip T1, aflat in frunza arborelui T2) si afiseaza toate cartile acestuia.
+prefix_list_author cauta autorii care au prefixul indicat si ii afiseaza pe primii 3.
+In main parcurg pe rand fiecare comanda si in plus de comezile de mai sus, comanda 
+search_by_author este o combinatie a acestora in functie de prefixul primit.
