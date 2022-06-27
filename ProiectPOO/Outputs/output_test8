@@ -1,0 +1,1541 @@
+Feb 05, 2022 6:26:16 PM Battle run
+INFO: A inceput batalia dintre pokemon.Pokemon{name='Eevee', hp=49, attack=0, specialAttack=4, defense=3, specialDefense=6, firstAbility=pokemon.Ability{damage=5, stun=false, dodge=false, cooldown=3}, secondAbility=pokemon.Ability{damage=3, stun=true, dodge=false, cooldown=3}} 
+si pokemon.Pokemon{name='Snorlax', hp=62, attack=3, specialAttack=0, defense=6, specialDefense=7, firstAbility=pokemon.Ability{damage=4, stun=true, dodge=false, cooldown=5}, secondAbility=pokemon.Ability{damage=0, stun=false, dodge=true, cooldown=5}}
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: atac special cu dmg: 4
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Snorlax: HP ramas: 62
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Snorlax: atac normal cu dmg: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: HP ramas: 49
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: atac abilitate cu dmg: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Snorlax: HP ramas: 59
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Snorlax: atac abilitate cu dmg: 4
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 5
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: HP ramas: 45
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: atac abilitate cu dmg: 5
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 2
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Snorlax: HP ramas: 54
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Snorlax: atac normal cu dmg: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 4
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: HP ramas: 45
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 2
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 1
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Snorlax: HP ramas: 54
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Snorlax: atac abilitate cu dmg: 0
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 5
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: HP ramas: 45
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: atac special cu dmg: 4
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 1
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Snorlax: HP ramas: 54
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Snorlax: atac normal cu dmg: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 2
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 4
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: HP ramas: 45
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: atac abilitate cu dmg: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Snorlax: HP ramas: 51
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: atac special cu dmg: 4
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 2
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Snorlax: HP ramas: 51
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Snorlax: atac normal cu dmg: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 1
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: HP ramas: 45
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: atac abilitate cu dmg: 5
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 1
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Snorlax: HP ramas: 46
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Snorlax: atac normal cu dmg: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 2
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: HP ramas: 45
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Snorlax: atac abilitate cu dmg: 4
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 5
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 1
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: HP ramas: 41
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: atac abilitate cu dmg: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 2
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Snorlax: HP ramas: 43
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: atac special cu dmg: 4
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 1
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 2
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Snorlax: HP ramas: 43
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Snorlax: atac normal cu dmg: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 4
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: HP ramas: 41
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 1
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Snorlax: HP ramas: 43
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Snorlax: atac abilitate cu dmg: 0
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 5
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: HP ramas: 41
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: atac abilitate cu dmg: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Snorlax: HP ramas: 40
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: atac special cu dmg: 4
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 2
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Snorlax: HP ramas: 40
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Snorlax: atac normal cu dmg: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 2
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 4
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: HP ramas: 41
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: atac abilitate cu dmg: 5
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 1
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Snorlax: HP ramas: 35
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Snorlax: atac normal cu dmg: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 1
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: HP ramas: 41
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: atac special cu dmg: 4
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 2
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Snorlax: HP ramas: 35
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Snorlax: atac normal cu dmg: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 5
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 2
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: HP ramas: 41
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: atac special cu dmg: 4
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 1
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 2
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Snorlax: HP ramas: 35
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Snorlax: atac normal cu dmg: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 4
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 1
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: HP ramas: 41
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 1
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Snorlax: HP ramas: 35
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Snorlax: atac normal cu dmg: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Snorlax: atac abilitate cu dmg: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 5
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: HP ramas: 38
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: atac special cu dmg: 4
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Snorlax: HP ramas: 35
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Snorlax: atac normal cu dmg: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 2
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 4
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: HP ramas: 38
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: atac special cu dmg: 4
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Snorlax: HP ramas: 35
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Snorlax: atac normal cu dmg: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 1
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: HP ramas: 38
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: atac abilitate cu dmg: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Snorlax: HP ramas: 32
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: atac abilitate cu dmg: 5
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 2
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Snorlax: HP ramas: 27
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Snorlax: atac normal cu dmg: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 2
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: HP ramas: 38
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Snorlax: atac abilitate cu dmg: 4
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 5
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 1
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: HP ramas: 34
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 2
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 1
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Snorlax: HP ramas: 27
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Snorlax: atac abilitate cu dmg: 0
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 4
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 5
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: HP ramas: 34
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: atac abilitate cu dmg: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 1
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Snorlax: HP ramas: 24
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: atac special cu dmg: 4
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 2
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Snorlax: HP ramas: 24
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Snorlax: atac normal cu dmg: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 4
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: HP ramas: 34
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: atac special cu dmg: 4
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 1
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Snorlax: HP ramas: 24
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Snorlax: atac normal cu dmg: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 2
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: HP ramas: 34
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: atac abilitate cu dmg: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Snorlax: HP ramas: 21
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: atac special cu dmg: 4
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 2
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Snorlax: HP ramas: 21
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Snorlax: atac normal cu dmg: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 1
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 2
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: HP ramas: 34
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Snorlax: atac abilitate cu dmg: 4
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 5
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 1
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: HP ramas: 30
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 1
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Snorlax: HP ramas: 21
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Snorlax: atac abilitate cu dmg: 0
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 4
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 5
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: HP ramas: 30
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: atac abilitate cu dmg: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 2
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Snorlax: HP ramas: 18
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: atac special cu dmg: 4
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 1
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 2
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Snorlax: HP ramas: 18
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Snorlax: atac normal cu dmg: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 4
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: HP ramas: 30
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: atac abilitate cu dmg: 5
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 1
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Snorlax: HP ramas: 13
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Snorlax: atac normal cu dmg: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 2
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: HP ramas: 30
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: atac abilitate cu dmg: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 2
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Snorlax: HP ramas: 10
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: atac special cu dmg: 4
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 1
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 2
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Snorlax: HP ramas: 10
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Snorlax: atac normal cu dmg: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 1
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 2
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: HP ramas: 30
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Snorlax: atac abilitate cu dmg: 4
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 5
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 1
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: HP ramas: 26
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 1
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Snorlax: HP ramas: 10
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Snorlax: atac abilitate cu dmg: 0
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 4
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 5
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: HP ramas: 26
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: atac special cu dmg: 4
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Snorlax: HP ramas: 10
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Snorlax: atac normal cu dmg: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 4
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: HP ramas: 26
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: atac abilitate cu dmg: 5
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Snorlax: HP ramas: 5
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Snorlax: atac normal cu dmg: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 2
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: HP ramas: 26
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: atac special cu dmg: 4
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: atac abilitate cu dmg: 4
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 2
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Snorlax: HP ramas: 1
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: atac special cu dmg: 4
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 1
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 2
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Snorlax: HP ramas: 1
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Snorlax: atac normal cu dmg: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 1
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 2
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: HP ramas: 26
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: atac abilitate cu dmg: 5
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 1
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Snorlax: HP ramas: -4
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Snorlax: atac normal cu dmg: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 1
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: HP ramas: 26
+
+Feb 05, 2022 6:26:16 PM Battle run
+INFO: Batalia s-a incheiat
+
+Feb 05, 2022 6:26:16 PM Battle getWinner
+INFO: Pokemul Eevee a castiagat
+Feb 05, 2022 6:26:16 PM Battle getWinner
+INFO: Noile sale statistici: pokemon.Pokemon{name='Eevee', hp=50, attack=0, specialAttack=5, defense=4, specialDefense=7, firstAbility=pokemon.Ability{damage=5, stun=false, dodge=false, cooldown=3}, secondAbility=pokemon.Ability{damage=3, stun=true, dodge=false, cooldown=3}}
+
+Feb 05, 2022 6:26:16 PM Battle run
+INFO: A inceput batalia dintre pokemon.Pokemon{name='Pikachu', hp=37, attack=0, specialAttack=6, defense=4, specialDefense=5, firstAbility=pokemon.Ability{damage=6, stun=false, dodge=false, cooldown=4}, secondAbility=pokemon.Ability{damage=4, stun=true, dodge=true, cooldown=5}} 
+si pokemon.Pokemon{name='Squirtle', hp=70, attack=0, specialAttack=3, defense=5, specialDefense=5, firstAbility=pokemon.Ability{damage=4, stun=false, dodge=false, cooldown=3}, secondAbility=pokemon.Ability{damage=2, stun=true, dodge=false, cooldown=2}}
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Squirtle: atac abilitate cu dmg: 2
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 2
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Pikachu: HP ramas: 35
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Pikachu: atac special cu dmg: 6
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Pikachu: atac abilitate cu dmg: 6
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 4
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 5
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Squirtle: HP ramas: 63
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Pikachu: atac special cu dmg: 6
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 4
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Squirtle: HP ramas: 62
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Squirtle: atac special cu dmg: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 1
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Pikachu: HP ramas: 35
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Squirtle: atac special cu dmg: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Squirtle: atac abilitate cu dmg: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 2
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 2
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Pikachu: HP ramas: 32
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Pikachu: atac special cu dmg: 6
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 2
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Squirtle: HP ramas: 61
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Squirtle: atac special cu dmg: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 1
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 1
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Pikachu: HP ramas: 32
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Squirtle: atac abilitate cu dmg: 2
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 2
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Pikachu: HP ramas: 30
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Pikachu: atac special cu dmg: 6
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 1
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 2
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Squirtle: HP ramas: 60
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Squirtle: atac abilitate cu dmg: 4
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 1
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Pikachu: HP ramas: 26
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Pikachu: atac abilitate cu dmg: 6
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 4
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 1
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Squirtle: HP ramas: 54
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Squirtle: atac special cu dmg: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 2
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Pikachu: HP ramas: 26
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Squirtle: atac special cu dmg: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Squirtle: atac abilitate cu dmg: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 1
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 2
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Pikachu: HP ramas: 23
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Pikachu: atac special cu dmg: 6
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Pikachu: atac abilitate cu dmg: 6
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 5
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Squirtle: HP ramas: 47
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Pikachu: atac special cu dmg: 6
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 2
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 4
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Squirtle: HP ramas: 46
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Squirtle: atac abilitate cu dmg: 4
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 1
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Pikachu: HP ramas: 19
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Pikachu: atac special cu dmg: 6
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 1
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Squirtle: HP ramas: 45
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Squirtle: atac special cu dmg: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 2
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Pikachu: HP ramas: 19
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Squirtle: atac abilitate cu dmg: 2
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 1
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 2
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Pikachu: HP ramas: 17
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Pikachu: atac special cu dmg: 6
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 2
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Squirtle: HP ramas: 44
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Squirtle: atac abilitate cu dmg: 4
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 1
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Pikachu: HP ramas: 13
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Pikachu: atac abilitate cu dmg: 6
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 4
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 1
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Squirtle: HP ramas: 38
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Squirtle: atac special cu dmg: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 2
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Pikachu: HP ramas: 13
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Pikachu: atac abilitate cu dmg: 4
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 5
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Squirtle: HP ramas: 34
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Squirtle: atac special cu dmg: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Squirtle: atac abilitate cu dmg: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 1
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 2
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Pikachu: HP ramas: 10
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Pikachu: atac special cu dmg: 6
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 2
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 4
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Squirtle: HP ramas: 33
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Squirtle: atac special cu dmg: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 1
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Pikachu: HP ramas: 10
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Pikachu: atac special cu dmg: 6
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 1
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Squirtle: HP ramas: 32
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Squirtle: atac abilitate cu dmg: 4
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Pikachu: HP ramas: 6
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Pikachu: atac special cu dmg: 6
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 2
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Squirtle: HP ramas: 31
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Squirtle: atac special cu dmg: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 2
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Pikachu: HP ramas: 6
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Squirtle: atac abilitate cu dmg: 2
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 1
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 2
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Pikachu: HP ramas: 4
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Pikachu: atac abilitate cu dmg: 6
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 4
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 1
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Squirtle: HP ramas: 25
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Squirtle: atac abilitate cu dmg: 4
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 1
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Pikachu: HP ramas: 0
+
+Feb 05, 2022 6:26:16 PM Battle run
+INFO: Batalia s-a incheiat
+
+Feb 05, 2022 6:26:16 PM Battle getWinner
+INFO: Pokemul Squirtle a castiagat.
+Feb 05, 2022 6:26:16 PM Battle getWinner
+INFO: Noile sale statistici: pokemon.Pokemon{name='Squirtle', hp=71, attack=0, specialAttack=7, defense=6, specialDefense=6, firstAbility=pokemon.Ability{damage=4, stun=false, dodge=false, cooldown=3}, secondAbility=pokemon.Ability{damage=2, stun=true, dodge=false, cooldown=2}}
+
+Feb 05, 2022 6:26:16 PM Battle run
+INFO: A inceput batalia dintre pokemon.Pokemon{name='Vulpix', hp=36, attack=8, specialAttack=0, defense=5, specialDefense=6, firstAbility=pokemon.Ability{damage=8, stun=true, dodge=false, cooldown=6}, secondAbility=pokemon.Ability{damage=2, stun=false, dodge=true, cooldown=7}} 
+si pokemon.Pokemon{name='Bulbasaur', hp=52, attack=0, specialAttack=5, defense=5, specialDefense=6, firstAbility=pokemon.Ability{damage=6, stun=false, dodge=false, cooldown=4}, secondAbility=pokemon.Ability{damage=5, stun=false, dodge=false, cooldown=3}}
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Vulpix: atac abilitate cu dmg: 8
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 6
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Bulbasaur: HP ramas: 44
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Vulpix: atac normal cu dmg: 8
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 5
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Bulbasaur: HP ramas: 41
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Bulbasaur: atac abilitate cu dmg: 5
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 4
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Vulpix: HP ramas: 31
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Vulpix: atac abilitate cu dmg: 2
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 4
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 7
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Bulbasaur: HP ramas: 39
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 2
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Vulpix: HP ramas: 31
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Vulpix: atac normal cu dmg: 8
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 6
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Bulbasaur: HP ramas: 36
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Bulbasaur: atac special cu dmg: 5
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 2
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 1
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Vulpix: HP ramas: 31
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Vulpix: atac normal cu dmg: 8
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 2
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 5
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Bulbasaur: HP ramas: 33
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Bulbasaur: atac abilitate cu dmg: 5
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 1
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Vulpix: HP ramas: 26
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Vulpix: atac normal cu dmg: 8
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 1
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 4
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Bulbasaur: HP ramas: 30
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Bulbasaur: atac special cu dmg: 5
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 2
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Vulpix: HP ramas: 26
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Vulpix: atac normal cu dmg: 8
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Bulbasaur: HP ramas: 27
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Bulbasaur: atac abilitate cu dmg: 6
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 4
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 1
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Vulpix: HP ramas: 20
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Vulpix: atac normal cu dmg: 8
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 2
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Bulbasaur: HP ramas: 24
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Bulbasaur: atac abilitate cu dmg: 5
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Vulpix: HP ramas: 15
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Vulpix: atac normal cu dmg: 8
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 1
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Bulbasaur: HP ramas: 21
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Bulbasaur: atac special cu dmg: 5
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 2
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 2
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Vulpix: HP ramas: 15
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Vulpix: atac abilitate cu dmg: 8
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 6
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Bulbasaur: HP ramas: 13
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Vulpix: atac normal cu dmg: 8
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 5
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Bulbasaur: HP ramas: 10
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Bulbasaur: atac special cu dmg: 5
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 1
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 1
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Vulpix: HP ramas: 15
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Vulpix: atac normal cu dmg: 8
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 4
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Bulbasaur: HP ramas: 7
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Bulbasaur: atac abilitate cu dmg: 5
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Vulpix: HP ramas: 10
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Vulpix: atac normal cu dmg: 8
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Bulbasaur: HP ramas: 4
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Bulbasaur: atac special cu dmg: 5
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 2
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Vulpix: HP ramas: 10
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Vulpix: atac normal cu dmg: 8
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 2
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Bulbasaur: HP ramas: 1
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Bulbasaur: atac special cu dmg: 5
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 1
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Vulpix: HP ramas: 10
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Vulpix: atac normal cu dmg: 8
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 1
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Bulbasaur: HP ramas: -2
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Bulbasaur: atac special cu dmg: 5
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Vulpix: HP ramas: 10
+
+Feb 05, 2022 6:26:16 PM Battle run
+INFO: Batalia s-a incheiat
+
+Feb 05, 2022 6:26:16 PM Battle getWinner
+INFO: Pokemul Vulpix a castiagat
+Feb 05, 2022 6:26:16 PM Battle getWinner
+INFO: Noile sale statistici: pokemon.Pokemon{name='Vulpix', hp=37, attack=9, specialAttack=0, defense=6, specialDefense=7, firstAbility=pokemon.Ability{damage=8, stun=true, dodge=false, cooldown=6}, secondAbility=pokemon.Ability{damage=2, stun=false, dodge=true, cooldown=7}}
+
+Feb 05, 2022 6:26:16 PM Battle run
+INFO: A inceput batalia dintre pokemon.Pokemon{name='Eevee', hp=50, attack=0, specialAttack=5, defense=4, specialDefense=7, firstAbility=pokemon.Ability{damage=5, stun=false, dodge=false, cooldown=3}, secondAbility=pokemon.Ability{damage=3, stun=true, dodge=false, cooldown=3}} 
+si pokemon.Pokemon{name='Squirtle', hp=71, attack=0, specialAttack=7, defense=6, specialDefense=6, firstAbility=pokemon.Ability{damage=4, stun=false, dodge=false, cooldown=3}, secondAbility=pokemon.Ability{damage=2, stun=true, dodge=false, cooldown=2}}
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: atac abilitate cu dmg: 5
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Squirtle: HP ramas: 66
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Squirtle: atac abilitate cu dmg: 4
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: HP ramas: 46
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: atac special cu dmg: 5
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: atac abilitate cu dmg: 5
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 2
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Squirtle: HP ramas: 61
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Squirtle: atac abilitate cu dmg: 2
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 2
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 2
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: HP ramas: 44
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: atac special cu dmg: 5
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 1
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 2
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Squirtle: HP ramas: 61
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Squirtle: atac special cu dmg: 7
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 1
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 1
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: HP ramas: 44
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Squirtle: atac abilitate cu dmg: 2
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 2
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: HP ramas: 42
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: atac special cu dmg: 5
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 1
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Squirtle: HP ramas: 61
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Squirtle: atac abilitate cu dmg: 4
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 1
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: HP ramas: 38
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: atac abilitate cu dmg: 5
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Squirtle: HP ramas: 56
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Squirtle: atac special cu dmg: 7
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 2
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: HP ramas: 38
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Squirtle: atac special cu dmg: 7
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Squirtle: atac abilitate cu dmg: 7
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 1
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 2
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: HP ramas: 31
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: atac special cu dmg: 5
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 2
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Squirtle: HP ramas: 56
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Squirtle: atac special cu dmg: 7
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 1
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: HP ramas: 31
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: atac special cu dmg: 5
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 1
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Squirtle: HP ramas: 56
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Squirtle: atac abilitate cu dmg: 4
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: HP ramas: 27
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Squirtle: atac special cu dmg: 7
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Squirtle: atac abilitate cu dmg: 7
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 2
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 2
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: HP ramas: 20
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: atac abilitate cu dmg: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Squirtle: HP ramas: 53
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: atac abilitate cu dmg: 5
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 2
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Squirtle: HP ramas: 48
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Squirtle: atac special cu dmg: 7
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 1
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 1
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: HP ramas: 20
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: atac special cu dmg: 5
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 2
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 1
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Squirtle: HP ramas: 48
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Squirtle: atac special cu dmg: 7
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: HP ramas: 20
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: atac abilitate cu dmg: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 1
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Squirtle: HP ramas: 45
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: atac special cu dmg: 5
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 2
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Squirtle: HP ramas: 45
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Squirtle: atac abilitate cu dmg: 4
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: HP ramas: 16
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Squirtle: atac abilitate cu dmg: 2
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 2
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 2
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: HP ramas: 14
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: atac special cu dmg: 5
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 1
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Squirtle: HP ramas: 45
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Squirtle: atac special cu dmg: 7
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 1
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 1
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: HP ramas: 14
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: atac abilitate cu dmg: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Squirtle: HP ramas: 42
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: atac abilitate cu dmg: 5
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 2
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Squirtle: HP ramas: 37
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Squirtle: atac abilitate cu dmg: 4
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: HP ramas: 10
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Squirtle: atac abilitate cu dmg: 2
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 2
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 2
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: HP ramas: 8
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: atac special cu dmg: 5
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 2
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 1
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Squirtle: HP ramas: 37
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Squirtle: atac special cu dmg: 7
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 1
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 1
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: HP ramas: 8
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: atac special cu dmg: 5
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 1
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Squirtle: HP ramas: 37
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Squirtle: atac abilitate cu dmg: 4
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: HP ramas: 4
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: atac special cu dmg: 5
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Squirtle: HP ramas: 37
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Squirtle: atac special cu dmg: 7
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 2
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: HP ramas: 4
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: atac special cu dmg: 5
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Squirtle: HP ramas: 37
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Squirtle: atac special cu dmg: 7
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 1
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: HP ramas: 4
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: atac abilitate cu dmg: 5
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Squirtle: HP ramas: 32
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Squirtle: atac special cu dmg: 7
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: HP ramas: 4
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: atac abilitate cu dmg: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 2
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Squirtle: HP ramas: 29
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Squirtle: atac abilitate cu dmg: 2
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 2
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: HP ramas: 2
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: atac special cu dmg: 5
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 1
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 2
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Squirtle: HP ramas: 29
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Squirtle: atac special cu dmg: 7
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 2
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 1
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: HP ramas: 2
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: atac abilitate cu dmg: 5
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 1
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Squirtle: HP ramas: 24
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Squirtle: atac special cu dmg: 7
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 1
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: HP ramas: 2
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: atac abilitate cu dmg: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 2
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 3
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Squirtle: HP ramas: 21
+
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Squirtle: atac abilitate cu dmg: 2
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 2
+Feb 05, 2022 6:26:16 PM Battle changeesAfterBattle
+INFO: Eevee: HP ramas: 0
+
+Feb 05, 2022 6:26:16 PM Battle run
+INFO: Batalia s-a incheiat
+
+Feb 05, 2022 6:26:16 PM Battle getWinner
+INFO: Pokemul Squirtle a castiagat.
+Feb 05, 2022 6:26:16 PM Battle getWinner
+INFO: Noile sale statistici: pokemon.Pokemon{name='Squirtle', hp=72, attack=0, specialAttack=6, defense=7, specialDefense=7, firstAbility=pokemon.Ability{damage=4, stun=false, dodge=false, cooldown=3}, secondAbility=pokemon.Ability{damage=2, stun=true, dodge=false, cooldown=2}}
+

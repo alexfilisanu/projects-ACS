@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Raymond",
+    "age": "28",
+    "pokemonsMap": {
+      "Charmander": [ "Scut", "Bagheta Magica" ],
+      "Snorlax": [ "Vitamine" ],
+      "Meowth": [ "Brad de Craciun", "Bagheta Magica" ]
+    }
+  },
+  {
+    "name": "Jaguar",
+    "age": "42",
+    "pokemonsMap": {
+      "Bulbasaur": [ "Vesta"],
+      "Eevee": [ "Vitamine", "Pelerina" ],
+      "Psyduck": [ ]
+    }
+  }
+]

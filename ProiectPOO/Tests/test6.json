@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Ciontu",
+    "age": "25",
+    "pokemonsMap": {
+      "Pikachu": [ "Scut", "Bagheta Magica" ],
+      "Charmander": [ "Scut", "Pelerina", "Sabiuta" ],
+      "Psyduck": [ "Pelerina", "Brad de Craciun", "Sabiuta" ]
+    }
+  },
+  {
+    "name": "Brawn",
+    "age": "17",
+    "pokemonsMap": {
+      "Pikachu": [ "Scut", "Sabiuta"],
+      "Jigglypuff": [ "Brad de Craciun", "Pelerina", "Vitamine" ],
+      "Snorlax": [ "Vesta" ]
+    }
+  }
+]
