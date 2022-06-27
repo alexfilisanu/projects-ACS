@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Red",
+    "age": "28",
+    "pokemonsMap": {
+      "Pikachu": [ "Scut", "Vesta" ],
+      "Charmander": [ "Scut" ],
+      "Squirtle": [ "Vitamine", "Pelerina", "Scut" ]
+    }
+  },
+  {
+    "name": "Blue",
+    "age": "17",
+    "pokemonsMap": {
+      "Bulbasaur": ["Scut", "Vesta"],
+      "Vulpix": [ "Vitamine", "Pelerina" ],
+      "Snorlax": [ "Vesta" ]
+    }
+  }
+]

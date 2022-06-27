@@ -1,0 +1,1809 @@
+Feb 05, 2022 6:07:02 PM Battle run
+INFO: A inceput batalia dintre pokemon.Pokemon{name='Eevee', hp=39, attack=0, specialAttack=4, defense=4, specialDefense=3, firstAbility=pokemon.Ability{damage=5, stun=false, dodge=false, cooldown=3}, secondAbility=pokemon.Ability{damage=3, stun=true, dodge=false, cooldown=3}} 
+si pokemon.Pokemon{name='Neutrel1', hp=10, attack=3, specialAttack=0, defense=1, specialDefense=1, firstAbility=null, secondAbility=null}
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Eevee: atac special cu dmg: 4
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Neutrel1: HP ramas: 7
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Neutrel1: atac normal cu dmg: 3
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Eevee: HP ramas: 39
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Eevee: atac abilitate cu dmg: 5
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 3
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Neutrel1: HP ramas: 2
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Neutrel1: atac normal cu dmg: 3
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Eevee: HP ramas: 39
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Eevee: atac special cu dmg: 4
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 2
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Neutrel1: HP ramas: -1
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Neutrel1: atac normal cu dmg: 3
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Eevee: HP ramas: 39
+
+Feb 05, 2022 6:07:02 PM Battle run
+INFO: Batalia s-a incheiat
+
+Feb 05, 2022 6:07:02 PM Battle getWinner
+INFO: Pokemul Eevee a castiagat
+Feb 05, 2022 6:07:02 PM Battle getWinner
+INFO: Noile sale statistici: pokemon.Pokemon{name='Eevee', hp=40, attack=0, specialAttack=5, defense=5, specialDefense=4, firstAbility=pokemon.Ability{damage=5, stun=false, dodge=false, cooldown=3}, secondAbility=pokemon.Ability{damage=3, stun=true, dodge=false, cooldown=3}}
+
+Feb 05, 2022 6:07:02 PM Battle run
+INFO: A inceput batalia dintre pokemon.Pokemon{name='Bulbasaur', hp=44, attack=0, specialAttack=7, defense=4, specialDefense=1, firstAbility=pokemon.Ability{damage=6, stun=false, dodge=false, cooldown=4}, secondAbility=pokemon.Ability{damage=5, stun=false, dodge=false, cooldown=3}} 
+si pokemon.Pokemon{name='Neutrel1', hp=10, attack=3, specialAttack=0, defense=1, specialDefense=1, firstAbility=null, secondAbility=null}
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Bulbasaur: atac abilitate cu dmg: 6
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 4
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Neutrel1: HP ramas: 4
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Neutrel1: atac normal cu dmg: 3
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Bulbasaur: HP ramas: 44
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Bulbasaur: atac abilitate cu dmg: 5
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 3
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 3
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Neutrel1: HP ramas: -1
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Neutrel1: atac normal cu dmg: 3
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Bulbasaur: HP ramas: 44
+
+Feb 05, 2022 6:07:02 PM Battle run
+INFO: Batalia s-a incheiat
+
+Feb 05, 2022 6:07:02 PM Battle getWinner
+INFO: Pokemul Bulbasaur a castiagat
+Feb 05, 2022 6:07:02 PM Battle getWinner
+INFO: Noile sale statistici: pokemon.Pokemon{name='Bulbasaur', hp=45, attack=0, specialAttack=8, defense=5, specialDefense=2, firstAbility=pokemon.Ability{damage=6, stun=false, dodge=false, cooldown=4}, secondAbility=pokemon.Ability{damage=5, stun=false, dodge=false, cooldown=3}}
+
+Feb 05, 2022 6:07:02 PM Battle run
+INFO: A inceput batalia dintre pokemon.Pokemon{name='Vulpix', hp=36, attack=8, specialAttack=0, defense=4, specialDefense=6, firstAbility=pokemon.Ability{damage=8, stun=true, dodge=false, cooldown=6}, secondAbility=pokemon.Ability{damage=2, stun=false, dodge=true, cooldown=7}} 
+si pokemon.Pokemon{name='Neutrel1', hp=10, attack=3, specialAttack=0, defense=1, specialDefense=1, firstAbility=null, secondAbility=null}
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Vulpix: atac abilitate cu dmg: 2
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 7
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Neutrel1: HP ramas: 8
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Vulpix: HP ramas: 36
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Vulpix: atac abilitate cu dmg: 8
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 6
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 6
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Neutrel1: HP ramas: 0
+
+Feb 05, 2022 6:07:02 PM Battle run
+INFO: Batalia s-a incheiat
+
+Feb 05, 2022 6:07:02 PM Battle getWinner
+INFO: Pokemul Vulpix a castiagat
+Feb 05, 2022 6:07:02 PM Battle getWinner
+INFO: Noile sale statistici: pokemon.Pokemon{name='Vulpix', hp=37, attack=9, specialAttack=0, defense=5, specialDefense=7, firstAbility=pokemon.Ability{damage=8, stun=true, dodge=false, cooldown=6}, secondAbility=pokemon.Ability{damage=2, stun=false, dodge=true, cooldown=7}}
+
+Feb 05, 2022 6:07:02 PM Battle run
+INFO: A inceput batalia dintre pokemon.Pokemon{name='Bulbasaur', hp=45, attack=0, specialAttack=8, defense=5, specialDefense=2, firstAbility=pokemon.Ability{damage=6, stun=false, dodge=false, cooldown=4}, secondAbility=pokemon.Ability{damage=5, stun=false, dodge=false, cooldown=3}} 
+si pokemon.Pokemon{name='Neutrel1', hp=10, attack=3, specialAttack=0, defense=1, specialDefense=1, firstAbility=null, secondAbility=null}
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Bulbasaur: atac abilitate cu dmg: 5
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 3
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Neutrel1: HP ramas: 5
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Neutrel1: atac normal cu dmg: 3
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Bulbasaur: HP ramas: 45
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Bulbasaur: atac special cu dmg: 8
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 2
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Neutrel1: HP ramas: -2
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Neutrel1: atac normal cu dmg: 3
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Bulbasaur: HP ramas: 45
+
+Feb 05, 2022 6:07:02 PM Battle run
+INFO: Batalia s-a incheiat
+
+Feb 05, 2022 6:07:02 PM Battle getWinner
+INFO: Pokemul Bulbasaur a castiagat
+Feb 05, 2022 6:07:02 PM Battle getWinner
+INFO: Noile sale statistici: pokemon.Pokemon{name='Bulbasaur', hp=46, attack=0, specialAttack=9, defense=6, specialDefense=3, firstAbility=pokemon.Ability{damage=6, stun=false, dodge=false, cooldown=4}, secondAbility=pokemon.Ability{damage=5, stun=false, dodge=false, cooldown=3}}
+
+Feb 05, 2022 6:07:02 PM Battle run
+INFO: A inceput batalia dintre pokemon.Pokemon{name='Eevee', hp=40, attack=0, specialAttack=5, defense=5, specialDefense=4, firstAbility=pokemon.Ability{damage=5, stun=false, dodge=false, cooldown=3}, secondAbility=pokemon.Ability{damage=3, stun=true, dodge=false, cooldown=3}} 
+si pokemon.Pokemon{name='Neutrel2', hp=20, attack=4, specialAttack=0, defense=1, specialDefense=1, firstAbility=null, secondAbility=null}
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Eevee: atac abilitate cu dmg: 5
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 3
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Neutrel2: HP ramas: 15
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Neutrel2: atac normal cu dmg: 4
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Eevee: HP ramas: 40
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Eevee: atac special cu dmg: 5
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 2
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Neutrel2: HP ramas: 11
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Neutrel2: atac normal cu dmg: 4
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Eevee: HP ramas: 40
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Eevee: atac abilitate cu dmg: 3
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 1
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 3
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Neutrel2: HP ramas: 8
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Eevee: atac abilitate cu dmg: 5
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 3
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 2
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Neutrel2: HP ramas: 3
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Neutrel2: atac normal cu dmg: 4
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Eevee: HP ramas: 40
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Eevee: atac special cu dmg: 5
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 2
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 1
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Neutrel2: HP ramas: -1
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Neutrel2: atac normal cu dmg: 4
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Eevee: HP ramas: 40
+
+Feb 05, 2022 6:07:02 PM Battle run
+INFO: Batalia s-a incheiat
+
+Feb 05, 2022 6:07:02 PM Battle getWinner
+INFO: Pokemul Eevee a castiagat
+Feb 05, 2022 6:07:02 PM Battle getWinner
+INFO: Noile sale statistici: pokemon.Pokemon{name='Eevee', hp=41, attack=0, specialAttack=6, defense=6, specialDefense=5, firstAbility=pokemon.Ability{damage=5, stun=false, dodge=false, cooldown=3}, secondAbility=pokemon.Ability{damage=3, stun=true, dodge=false, cooldown=3}}
+
+Feb 05, 2022 6:07:02 PM Battle run
+INFO: A inceput batalia dintre pokemon.Pokemon{name='Psyduck', hp=43, attack=6, specialAttack=0, defense=5, specialDefense=8, firstAbility=pokemon.Ability{damage=2, stun=false, dodge=false, cooldown=4}, secondAbility=pokemon.Ability{damage=2, stun=true, dodge=false, cooldown=5}} 
+si pokemon.Pokemon{name='Neutrel2', hp=20, attack=4, specialAttack=0, defense=1, specialDefense=1, firstAbility=null, secondAbility=null}
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Psyduck: atac abilitate cu dmg: 2
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 4
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Neutrel2: HP ramas: 18
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Neutrel2: atac normal cu dmg: 4
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Psyduck: HP ramas: 43
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Psyduck: atac normal cu dmg: 6
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 3
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Neutrel2: HP ramas: 13
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Neutrel2: atac normal cu dmg: 4
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Psyduck: HP ramas: 43
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Psyduck: atac abilitate cu dmg: 2
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 2
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 5
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Neutrel2: HP ramas: 11
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Psyduck: atac normal cu dmg: 6
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 1
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 4
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Neutrel2: HP ramas: 6
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Neutrel2: atac normal cu dmg: 4
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Psyduck: HP ramas: 43
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Psyduck: atac normal cu dmg: 6
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 3
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Neutrel2: HP ramas: 1
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Neutrel2: atac normal cu dmg: 4
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Psyduck: HP ramas: 43
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Psyduck: atac normal cu dmg: 6
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 2
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Neutrel2: HP ramas: -4
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Neutrel2: atac normal cu dmg: 4
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Psyduck: HP ramas: 43
+
+Feb 05, 2022 6:07:02 PM Battle run
+INFO: Batalia s-a incheiat
+
+Feb 05, 2022 6:07:02 PM Battle getWinner
+INFO: Pokemul Psyduck a castiagat
+Feb 05, 2022 6:07:02 PM Battle getWinner
+INFO: Noile sale statistici: pokemon.Pokemon{name='Psyduck', hp=44, attack=7, specialAttack=0, defense=6, specialDefense=9, firstAbility=pokemon.Ability{damage=2, stun=false, dodge=false, cooldown=4}, secondAbility=pokemon.Ability{damage=2, stun=true, dodge=false, cooldown=5}}
+
+Feb 05, 2022 6:07:02 PM Battle run
+INFO: A inceput batalia dintre pokemon.Pokemon{name='Squirtle', hp=62, attack=0, specialAttack=5, defense=5, specialDefense=8, firstAbility=pokemon.Ability{damage=4, stun=false, dodge=false, cooldown=3}, secondAbility=pokemon.Ability{damage=2, stun=true, dodge=false, cooldown=2}} 
+si pokemon.Pokemon{name='Neutrel2', hp=20, attack=4, specialAttack=0, defense=1, specialDefense=1, firstAbility=null, secondAbility=null}
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Squirtle: atac special cu dmg: 5
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Neutrel2: HP ramas: 16
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Neutrel2: atac normal cu dmg: 4
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Squirtle: HP ramas: 62
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Squirtle: atac abilitate cu dmg: 4
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 3
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Neutrel2: HP ramas: 12
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Neutrel2: atac normal cu dmg: 4
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Squirtle: HP ramas: 62
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Squirtle: atac special cu dmg: 5
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 2
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Neutrel2: HP ramas: 8
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Neutrel2: atac normal cu dmg: 4
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Squirtle: HP ramas: 62
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Squirtle: atac special cu dmg: 5
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Squirtle: atac abilitate cu dmg: 5
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 1
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 2
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Neutrel2: HP ramas: -1
+
+Feb 05, 2022 6:07:02 PM Battle run
+INFO: Batalia s-a incheiat
+
+Feb 05, 2022 6:07:02 PM Battle getWinner
+INFO: Pokemul Squirtle a castiagat
+Feb 05, 2022 6:07:02 PM Battle getWinner
+INFO: Noile sale statistici: pokemon.Pokemon{name='Squirtle', hp=63, attack=0, specialAttack=6, defense=6, specialDefense=9, firstAbility=pokemon.Ability{damage=4, stun=false, dodge=false, cooldown=3}, secondAbility=pokemon.Ability{damage=2, stun=true, dodge=false, cooldown=2}}
+
+Feb 05, 2022 6:07:02 PM Battle run
+INFO: A inceput batalia dintre pokemon.Pokemon{name='Bulbasaur', hp=46, attack=0, specialAttack=9, defense=6, specialDefense=3, firstAbility=pokemon.Ability{damage=6, stun=false, dodge=false, cooldown=4}, secondAbility=pokemon.Ability{damage=5, stun=false, dodge=false, cooldown=3}} 
+si pokemon.Pokemon{name='Neutrel2', hp=20, attack=4, specialAttack=0, defense=1, specialDefense=1, firstAbility=null, secondAbility=null}
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Bulbasaur: atac abilitate cu dmg: 5
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 3
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Neutrel2: HP ramas: 15
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Neutrel2: atac normal cu dmg: 4
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Bulbasaur: HP ramas: 46
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Bulbasaur: atac abilitate cu dmg: 6
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 4
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 2
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Neutrel2: HP ramas: 9
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Neutrel2: atac normal cu dmg: 4
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Bulbasaur: HP ramas: 46
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Bulbasaur: atac special cu dmg: 9
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 3
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 1
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Neutrel2: HP ramas: 1
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Neutrel2: atac normal cu dmg: 4
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Bulbasaur: HP ramas: 46
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Bulbasaur: atac abilitate cu dmg: 5
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 2
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 3
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Neutrel2: HP ramas: -4
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Neutrel2: atac normal cu dmg: 4
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Bulbasaur: HP ramas: 46
+
+Feb 05, 2022 6:07:02 PM Battle run
+INFO: Batalia s-a incheiat
+
+Feb 05, 2022 6:07:02 PM Battle getWinner
+INFO: Pokemul Bulbasaur a castiagat
+Feb 05, 2022 6:07:02 PM Battle getWinner
+INFO: Noile sale statistici: pokemon.Pokemon{name='Bulbasaur', hp=47, attack=0, specialAttack=10, defense=7, specialDefense=4, firstAbility=pokemon.Ability{damage=6, stun=false, dodge=false, cooldown=4}, secondAbility=pokemon.Ability{damage=5, stun=false, dodge=false, cooldown=3}}
+
+Feb 05, 2022 6:07:02 PM Battle run
+INFO: A inceput batalia dintre pokemon.Pokemon{name='Vulpix', hp=37, attack=9, specialAttack=0, defense=5, specialDefense=7, firstAbility=pokemon.Ability{damage=8, stun=true, dodge=false, cooldown=6}, secondAbility=pokemon.Ability{damage=2, stun=false, dodge=true, cooldown=7}} 
+si pokemon.Pokemon{name='Neutrel2', hp=20, attack=4, specialAttack=0, defense=1, specialDefense=1, firstAbility=null, secondAbility=null}
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Vulpix: atac normal cu dmg: 9
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Neutrel2: HP ramas: 12
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Neutrel2: atac normal cu dmg: 4
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Vulpix: HP ramas: 37
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Vulpix: atac abilitate cu dmg: 2
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 7
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Neutrel2: HP ramas: 10
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Vulpix: HP ramas: 37
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Vulpix: atac abilitate cu dmg: 8
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 6
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 6
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Neutrel2: HP ramas: 2
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Vulpix: atac normal cu dmg: 9
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 5
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 5
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Neutrel2: HP ramas: -6
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Neutrel2: atac normal cu dmg: 4
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Vulpix: HP ramas: 37
+
+Feb 05, 2022 6:07:02 PM Battle run
+INFO: Batalia s-a incheiat
+
+Feb 05, 2022 6:07:02 PM Battle getWinner
+INFO: Pokemul Vulpix a castiagat
+Feb 05, 2022 6:07:02 PM Battle getWinner
+INFO: Noile sale statistici: pokemon.Pokemon{name='Vulpix', hp=38, attack=10, specialAttack=0, defense=6, specialDefense=8, firstAbility=pokemon.Ability{damage=8, stun=true, dodge=false, cooldown=6}, secondAbility=pokemon.Ability{damage=2, stun=false, dodge=true, cooldown=7}}
+
+Feb 05, 2022 6:07:02 PM Battle run
+INFO: A inceput batalia dintre pokemon.Pokemon{name='Bulbasaur', hp=47, attack=0, specialAttack=10, defense=7, specialDefense=4, firstAbility=pokemon.Ability{damage=6, stun=false, dodge=false, cooldown=4}, secondAbility=pokemon.Ability{damage=5, stun=false, dodge=false, cooldown=3}} 
+si pokemon.Pokemon{name='Neutrel2', hp=20, attack=4, specialAttack=0, defense=1, specialDefense=1, firstAbility=null, secondAbility=null}
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Bulbasaur: atac abilitate cu dmg: 5
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 3
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Neutrel2: HP ramas: 15
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Neutrel2: atac normal cu dmg: 4
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Bulbasaur: HP ramas: 47
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Bulbasaur: atac abilitate cu dmg: 6
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 4
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 2
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Neutrel2: HP ramas: 9
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Neutrel2: atac normal cu dmg: 4
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Bulbasaur: HP ramas: 47
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Bulbasaur: atac special cu dmg: 10
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 3
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 1
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Neutrel2: HP ramas: 0
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Neutrel2: atac normal cu dmg: 4
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Bulbasaur: HP ramas: 47
+
+Feb 05, 2022 6:07:02 PM Battle run
+INFO: Batalia s-a incheiat
+
+Feb 05, 2022 6:07:02 PM Battle getWinner
+INFO: Pokemul Bulbasaur a castiagat
+Feb 05, 2022 6:07:02 PM Battle getWinner
+INFO: Noile sale statistici: pokemon.Pokemon{name='Bulbasaur', hp=48, attack=0, specialAttack=11, defense=8, specialDefense=5, firstAbility=pokemon.Ability{damage=6, stun=false, dodge=false, cooldown=4}, secondAbility=pokemon.Ability{damage=5, stun=false, dodge=false, cooldown=3}}
+
+Feb 05, 2022 6:07:02 PM Battle run
+INFO: A inceput batalia dintre pokemon.Pokemon{name='Squirtle', hp=63, attack=0, specialAttack=6, defense=6, specialDefense=9, firstAbility=pokemon.Ability{damage=4, stun=false, dodge=false, cooldown=3}, secondAbility=pokemon.Ability{damage=2, stun=true, dodge=false, cooldown=2}} 
+si pokemon.Pokemon{name='Neutrel1', hp=10, attack=3, specialAttack=0, defense=1, specialDefense=1, firstAbility=null, secondAbility=null}
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Squirtle: atac abilitate cu dmg: 4
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 3
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Neutrel1: HP ramas: 6
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Neutrel1: atac normal cu dmg: 3
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Squirtle: HP ramas: 63
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Squirtle: atac special cu dmg: 6
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 2
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Neutrel1: HP ramas: 1
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Neutrel1: atac normal cu dmg: 3
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Squirtle: HP ramas: 63
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Squirtle: atac special cu dmg: 6
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 1
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Neutrel1: HP ramas: -4
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Neutrel1: atac normal cu dmg: 3
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Squirtle: HP ramas: 63
+
+Feb 05, 2022 6:07:02 PM Battle run
+INFO: Batalia s-a incheiat
+
+Feb 05, 2022 6:07:02 PM Battle getWinner
+INFO: Pokemul Squirtle a castiagat
+Feb 05, 2022 6:07:02 PM Battle getWinner
+INFO: Noile sale statistici: pokemon.Pokemon{name='Squirtle', hp=64, attack=0, specialAttack=7, defense=7, specialDefense=10, firstAbility=pokemon.Ability{damage=4, stun=false, dodge=false, cooldown=3}, secondAbility=pokemon.Ability{damage=2, stun=true, dodge=false, cooldown=2}}
+
+Feb 05, 2022 6:07:02 PM Battle run
+INFO: A inceput batalia dintre pokemon.Pokemon{name='Psyduck', hp=44, attack=7, specialAttack=0, defense=6, specialDefense=9, firstAbility=pokemon.Ability{damage=2, stun=false, dodge=false, cooldown=4}, secondAbility=pokemon.Ability{damage=2, stun=true, dodge=false, cooldown=5}} 
+si pokemon.Pokemon{name='Neutrel1', hp=10, attack=3, specialAttack=0, defense=1, specialDefense=1, firstAbility=null, secondAbility=null}
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Psyduck: atac abilitate cu dmg: 2
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 4
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Neutrel1: HP ramas: 8
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Neutrel1: atac normal cu dmg: 3
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Psyduck: HP ramas: 44
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Psyduck: atac normal cu dmg: 7
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 3
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Neutrel1: HP ramas: 2
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Neutrel1: atac normal cu dmg: 3
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Psyduck: HP ramas: 44
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Psyduck: atac normal cu dmg: 7
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Psyduck: atac abilitate cu dmg: 7
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 2
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 5
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Neutrel1: HP ramas: -11
+
+Feb 05, 2022 6:07:02 PM Battle run
+INFO: Batalia s-a incheiat
+
+Feb 05, 2022 6:07:02 PM Battle getWinner
+INFO: Pokemul Psyduck a castiagat
+Feb 05, 2022 6:07:02 PM Battle getWinner
+INFO: Noile sale statistici: pokemon.Pokemon{name='Psyduck', hp=45, attack=8, specialAttack=0, defense=7, specialDefense=10, firstAbility=pokemon.Ability{damage=2, stun=false, dodge=false, cooldown=4}, secondAbility=pokemon.Ability{damage=2, stun=true, dodge=false, cooldown=5}}
+
+Feb 05, 2022 6:07:02 PM Battle run
+INFO: A inceput batalia dintre pokemon.Pokemon{name='Squirtle', hp=64, attack=0, specialAttack=7, defense=7, specialDefense=10, firstAbility=pokemon.Ability{damage=4, stun=false, dodge=false, cooldown=3}, secondAbility=pokemon.Ability{damage=2, stun=true, dodge=false, cooldown=2}} 
+si pokemon.Pokemon{name='Neutrel2', hp=20, attack=4, specialAttack=0, defense=1, specialDefense=1, firstAbility=null, secondAbility=null}
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Squirtle: atac abilitate cu dmg: 4
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 3
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Neutrel2: HP ramas: 16
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Neutrel2: atac normal cu dmg: 4
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Squirtle: HP ramas: 64
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Squirtle: atac special cu dmg: 7
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Squirtle: atac abilitate cu dmg: 7
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 2
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 2
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Neutrel2: HP ramas: 3
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Squirtle: atac special cu dmg: 7
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 1
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 1
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Neutrel2: HP ramas: -3
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Neutrel2: atac normal cu dmg: 4
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Squirtle: HP ramas: 64
+
+Feb 05, 2022 6:07:02 PM Battle run
+INFO: Batalia s-a incheiat
+
+Feb 05, 2022 6:07:02 PM Battle getWinner
+INFO: Pokemul Squirtle a castiagat
+Feb 05, 2022 6:07:02 PM Battle getWinner
+INFO: Noile sale statistici: pokemon.Pokemon{name='Squirtle', hp=65, attack=0, specialAttack=8, defense=8, specialDefense=11, firstAbility=pokemon.Ability{damage=4, stun=false, dodge=false, cooldown=3}, secondAbility=pokemon.Ability{damage=2, stun=true, dodge=false, cooldown=2}}
+
+Feb 05, 2022 6:07:02 PM Battle run
+INFO: A inceput batalia dintre pokemon.Pokemon{name='Psyduck', hp=45, attack=8, specialAttack=0, defense=7, specialDefense=10, firstAbility=pokemon.Ability{damage=2, stun=false, dodge=false, cooldown=4}, secondAbility=pokemon.Ability{damage=2, stun=true, dodge=false, cooldown=5}} 
+si pokemon.Pokemon{name='Neutrel2', hp=20, attack=4, specialAttack=0, defense=1, specialDefense=1, firstAbility=null, secondAbility=null}
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Psyduck: atac normal cu dmg: 8
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Neutrel2: HP ramas: 13
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Neutrel2: atac normal cu dmg: 4
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Psyduck: HP ramas: 45
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Psyduck: atac normal cu dmg: 8
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Neutrel2: HP ramas: 6
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Neutrel2: atac normal cu dmg: 4
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Psyduck: HP ramas: 45
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Psyduck: atac abilitate cu dmg: 2
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 4
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Neutrel2: HP ramas: 4
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Neutrel2: atac normal cu dmg: 4
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Psyduck: HP ramas: 45
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Psyduck: atac abilitate cu dmg: 2
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 3
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 5
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Neutrel2: HP ramas: 2
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Psyduck: atac normal cu dmg: 8
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 2
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 4
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Neutrel2: HP ramas: -5
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Neutrel2: atac normal cu dmg: 4
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Psyduck: HP ramas: 45
+
+Feb 05, 2022 6:07:02 PM Battle run
+INFO: Batalia s-a incheiat
+
+Feb 05, 2022 6:07:02 PM Battle getWinner
+INFO: Pokemul Psyduck a castiagat
+Feb 05, 2022 6:07:02 PM Battle getWinner
+INFO: Noile sale statistici: pokemon.Pokemon{name='Psyduck', hp=46, attack=9, specialAttack=0, defense=8, specialDefense=11, firstAbility=pokemon.Ability{damage=2, stun=false, dodge=false, cooldown=4}, secondAbility=pokemon.Ability{damage=2, stun=true, dodge=false, cooldown=5}}
+
+Feb 05, 2022 6:07:02 PM Battle run
+INFO: A inceput batalia dintre pokemon.Pokemon{name='Vulpix', hp=38, attack=10, specialAttack=0, defense=6, specialDefense=8, firstAbility=pokemon.Ability{damage=8, stun=true, dodge=false, cooldown=6}, secondAbility=pokemon.Ability{damage=2, stun=false, dodge=true, cooldown=7}} 
+si pokemon.Pokemon{name='Neutrel2', hp=20, attack=4, specialAttack=0, defense=1, specialDefense=1, firstAbility=null, secondAbility=null}
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Vulpix: atac abilitate cu dmg: 2
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 7
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Neutrel2: HP ramas: 18
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Vulpix: HP ramas: 38
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Vulpix: atac normal cu dmg: 10
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 6
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Neutrel2: HP ramas: 9
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Neutrel2: atac normal cu dmg: 4
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Vulpix: HP ramas: 38
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Vulpix: atac abilitate cu dmg: 8
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 6
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 5
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Neutrel2: HP ramas: 1
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Vulpix: atac normal cu dmg: 10
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 5
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 4
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Neutrel2: HP ramas: -8
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Neutrel2: atac normal cu dmg: 4
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Vulpix: HP ramas: 38
+
+Feb 05, 2022 6:07:02 PM Battle run
+INFO: Batalia s-a incheiat
+
+Feb 05, 2022 6:07:02 PM Battle getWinner
+INFO: Pokemul Vulpix a castiagat
+Feb 05, 2022 6:07:02 PM Battle getWinner
+INFO: Noile sale statistici: pokemon.Pokemon{name='Vulpix', hp=39, attack=11, specialAttack=0, defense=7, specialDefense=9, firstAbility=pokemon.Ability{damage=8, stun=true, dodge=false, cooldown=6}, secondAbility=pokemon.Ability{damage=2, stun=false, dodge=true, cooldown=7}}
+
+Feb 05, 2022 6:07:02 PM Battle run
+INFO: A inceput batalia dintre pokemon.Pokemon{name='Bulbasaur', hp=48, attack=0, specialAttack=11, defense=8, specialDefense=5, firstAbility=pokemon.Ability{damage=6, stun=false, dodge=false, cooldown=4}, secondAbility=pokemon.Ability{damage=5, stun=false, dodge=false, cooldown=3}} 
+si pokemon.Pokemon{name='Neutrel2', hp=20, attack=4, specialAttack=0, defense=1, specialDefense=1, firstAbility=null, secondAbility=null}
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Bulbasaur: atac abilitate cu dmg: 5
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 3
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Neutrel2: HP ramas: 15
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Neutrel2: atac normal cu dmg: 4
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Bulbasaur: HP ramas: 48
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Bulbasaur: atac abilitate cu dmg: 6
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 4
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 2
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Neutrel2: HP ramas: 9
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Neutrel2: atac normal cu dmg: 4
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Bulbasaur: HP ramas: 48
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Bulbasaur: atac special cu dmg: 11
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 3
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 1
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Neutrel2: HP ramas: -1
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Neutrel2: atac normal cu dmg: 4
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Bulbasaur: HP ramas: 48
+
+Feb 05, 2022 6:07:02 PM Battle run
+INFO: Batalia s-a incheiat
+
+Feb 05, 2022 6:07:02 PM Battle getWinner
+INFO: Pokemul Bulbasaur a castiagat
+Feb 05, 2022 6:07:02 PM Battle getWinner
+INFO: Noile sale statistici: pokemon.Pokemon{name='Bulbasaur', hp=49, attack=0, specialAttack=12, defense=9, specialDefense=6, firstAbility=pokemon.Ability{damage=6, stun=false, dodge=false, cooldown=4}, secondAbility=pokemon.Ability{damage=5, stun=false, dodge=false, cooldown=3}}
+
+Feb 05, 2022 6:07:02 PM Battle run
+INFO: A inceput batalia dintre pokemon.Pokemon{name='Eevee', hp=41, attack=0, specialAttack=6, defense=6, specialDefense=5, firstAbility=pokemon.Ability{damage=5, stun=false, dodge=false, cooldown=3}, secondAbility=pokemon.Ability{damage=3, stun=true, dodge=false, cooldown=3}} 
+si pokemon.Pokemon{name='Psyduck', hp=46, attack=9, specialAttack=0, defense=8, specialDefense=11, firstAbility=pokemon.Ability{damage=2, stun=false, dodge=false, cooldown=4}, secondAbility=pokemon.Ability{damage=2, stun=true, dodge=false, cooldown=5}}
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Psyduck: atac abilitate cu dmg: 2
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 5
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Eevee: HP ramas: 39
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Eevee: atac abilitate cu dmg: 3
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 3
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 3
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Psyduck: HP ramas: 43
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Eevee: atac special cu dmg: 6
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 2
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 2
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Psyduck: HP ramas: 43
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Psyduck: atac normal cu dmg: 9
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 4
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 4
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Eevee: HP ramas: 36
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Eevee: atac special cu dmg: 6
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 1
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 1
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Psyduck: HP ramas: 43
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Psyduck: atac normal cu dmg: 9
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 3
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 3
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Eevee: HP ramas: 33
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Eevee: atac abilitate cu dmg: 5
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 3
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Psyduck: HP ramas: 38
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Psyduck: atac normal cu dmg: 9
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 2
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 2
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Eevee: HP ramas: 30
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Eevee: atac abilitate cu dmg: 3
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 2
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 3
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Psyduck: HP ramas: 35
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Eevee: atac special cu dmg: 6
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 1
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 2
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Psyduck: HP ramas: 35
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Psyduck: atac normal cu dmg: 9
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 1
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 1
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Eevee: HP ramas: 27
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Eevee: atac abilitate cu dmg: 5
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 3
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 1
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Psyduck: HP ramas: 30
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Psyduck: atac abilitate cu dmg: 2
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 4
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Eevee: HP ramas: 25
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Eevee: atac special cu dmg: 6
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 2
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Psyduck: HP ramas: 30
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Psyduck: atac normal cu dmg: 9
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 3
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Eevee: HP ramas: 22
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Eevee: atac special cu dmg: 6
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 1
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Psyduck: HP ramas: 30
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Psyduck: atac normal cu dmg: 9
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 2
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Eevee: HP ramas: 19
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Psyduck: atac normal cu dmg: 9
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Psyduck: atac abilitate cu dmg: 9
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 1
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 5
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Eevee: HP ramas: 7
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Eevee: atac special cu dmg: 6
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Psyduck: HP ramas: 30
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Psyduck: atac normal cu dmg: 9
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 4
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Eevee: HP ramas: 4
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Eevee: atac special cu dmg: 6
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Psyduck: HP ramas: 30
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Psyduck: atac normal cu dmg: 9
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 3
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Eevee: HP ramas: 1
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Eevee: atac abilitate cu dmg: 5
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 3
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Psyduck: HP ramas: 25
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Psyduck: atac normal cu dmg: 9
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 2
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Eevee: HP ramas: -2
+
+Feb 05, 2022 6:07:02 PM Battle run
+INFO: Batalia s-a incheiat
+
+Feb 05, 2022 6:07:02 PM Battle getWinner
+INFO: Pokemul Psyduck a castiagat.
+Feb 05, 2022 6:07:02 PM Battle getWinner
+INFO: Noile sale statistici: pokemon.Pokemon{name='Psyduck', hp=47, attack=10, specialAttack=0, defense=9, specialDefense=12, firstAbility=pokemon.Ability{damage=2, stun=false, dodge=false, cooldown=4}, secondAbility=pokemon.Ability{damage=2, stun=true, dodge=false, cooldown=5}}
+
+Feb 05, 2022 6:07:02 PM Battle run
+INFO: A inceput batalia dintre pokemon.Pokemon{name='Vulpix', hp=39, attack=11, specialAttack=0, defense=7, specialDefense=9, firstAbility=pokemon.Ability{damage=8, stun=true, dodge=false, cooldown=6}, secondAbility=pokemon.Ability{damage=2, stun=false, dodge=true, cooldown=7}} 
+si pokemon.Pokemon{name='Bulbasaur', hp=49, attack=0, specialAttack=12, defense=9, specialDefense=6, firstAbility=pokemon.Ability{damage=6, stun=false, dodge=false, cooldown=4}, secondAbility=pokemon.Ability{damage=5, stun=false, dodge=false, cooldown=3}}
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Vulpix: atac normal cu dmg: 11
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Bulbasaur: HP ramas: 47
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Bulbasaur: atac abilitate cu dmg: 6
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 4
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Vulpix: HP ramas: 33
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Vulpix: atac abilitate cu dmg: 8
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 6
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Bulbasaur: HP ramas: 39
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Vulpix: atac normal cu dmg: 11
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 5
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Bulbasaur: HP ramas: 37
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Bulbasaur: atac special cu dmg: 12
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 3
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 3
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Vulpix: HP ramas: 30
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Vulpix: atac normal cu dmg: 11
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 4
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Bulbasaur: HP ramas: 35
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Bulbasaur: atac special cu dmg: 12
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 2
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 2
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Vulpix: HP ramas: 27
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Vulpix: atac normal cu dmg: 11
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 3
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Bulbasaur: HP ramas: 33
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Bulbasaur: atac special cu dmg: 12
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 1
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 1
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Vulpix: HP ramas: 24
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Vulpix: atac abilitate cu dmg: 2
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 2
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 7
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Bulbasaur: HP ramas: 31
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Vulpix: HP ramas: 24
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Vulpix: atac normal cu dmg: 11
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 1
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 6
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Bulbasaur: HP ramas: 29
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Bulbasaur: atac abilitate cu dmg: 5
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 3
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Vulpix: HP ramas: 19
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Vulpix: atac abilitate cu dmg: 8
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 6
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 5
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Bulbasaur: HP ramas: 21
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Vulpix: atac normal cu dmg: 11
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 5
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 4
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Bulbasaur: HP ramas: 19
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Bulbasaur: atac special cu dmg: 12
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 2
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Vulpix: HP ramas: 16
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Vulpix: atac normal cu dmg: 11
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 4
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 3
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Bulbasaur: HP ramas: 17
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Bulbasaur: atac special cu dmg: 12
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 1
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Vulpix: HP ramas: 13
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Vulpix: atac normal cu dmg: 11
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 3
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 2
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Bulbasaur: HP ramas: 15
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Bulbasaur: atac special cu dmg: 12
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Vulpix: HP ramas: 10
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Vulpix: atac normal cu dmg: 11
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 2
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 1
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Bulbasaur: HP ramas: 13
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Bulbasaur: atac special cu dmg: 12
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Vulpix: HP ramas: 7
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Vulpix: atac normal cu dmg: 11
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Vulpix: atac abilitate cu dmg: 11
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 1
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 7
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Bulbasaur: HP ramas: 0
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Vulpix: HP ramas: 7
+
+Feb 05, 2022 6:07:02 PM Battle run
+INFO: Batalia s-a incheiat
+
+Feb 05, 2022 6:07:02 PM Battle getWinner
+INFO: Pokemul Vulpix a castiagat
+Feb 05, 2022 6:07:02 PM Battle getWinner
+INFO: Noile sale statistici: pokemon.Pokemon{name='Vulpix', hp=40, attack=12, specialAttack=0, defense=8, specialDefense=10, firstAbility=pokemon.Ability{damage=8, stun=true, dodge=false, cooldown=6}, secondAbility=pokemon.Ability{damage=2, stun=false, dodge=true, cooldown=7}}
+
+Feb 05, 2022 6:07:02 PM Battle run
+INFO: A inceput batalia dintre pokemon.Pokemon{name='Squirtle', hp=65, attack=0, specialAttack=8, defense=8, specialDefense=11, firstAbility=pokemon.Ability{damage=4, stun=false, dodge=false, cooldown=3}, secondAbility=pokemon.Ability{damage=2, stun=true, dodge=false, cooldown=2}} 
+si pokemon.Pokemon{name='Pikachu', hp=37, attack=0, specialAttack=9, defense=2, specialDefense=3, firstAbility=pokemon.Ability{damage=6, stun=false, dodge=false, cooldown=4}, secondAbility=pokemon.Ability{damage=4, stun=true, dodge=true, cooldown=5}}
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Squirtle: atac special cu dmg: 8
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Pikachu: HP ramas: 32
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Pikachu: atac special cu dmg: 9
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Squirtle: HP ramas: 65
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Squirtle: atac special cu dmg: 8
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Pikachu: HP ramas: 27
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Pikachu: atac special cu dmg: 9
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Squirtle: HP ramas: 65
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Squirtle: atac abilitate cu dmg: 2
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 2
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Pikachu: HP ramas: 25
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Squirtle: atac special cu dmg: 8
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 1
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Pikachu: HP ramas: 20
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Pikachu: atac special cu dmg: 9
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 4
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Squirtle: HP ramas: 65
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Squirtle: atac abilitate cu dmg: 2
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 2
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Pikachu: HP ramas: 18
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Squirtle: atac abilitate cu dmg: 4
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 3
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 1
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Pikachu: HP ramas: 14
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Pikachu: atac special cu dmg: 9
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 3
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Squirtle: HP ramas: 65
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Squirtle: atac special cu dmg: 8
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 2
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Pikachu: HP ramas: 9
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Pikachu: atac special cu dmg: 9
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 2
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Squirtle: HP ramas: 65
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Squirtle: atac abilitate cu dmg: 2
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 1
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 2
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Pikachu: HP ramas: 7
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Pikachu: atac abilitate cu dmg: 4
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 1
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 5
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Squirtle: HP ramas: 61
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Squirtle: atac abilitate cu dmg: 4
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 3
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 1
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Pikachu: HP ramas: 3
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Pikachu: atac special cu dmg: 9
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 4
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Squirtle: HP ramas: 61
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Squirtle: atac abilitate cu dmg: 2
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 2
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 2
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Pikachu: HP ramas: 1
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Squirtle: atac special cu dmg: 8
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 1
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 1
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Pikachu: HP ramas: -4
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Pikachu: atac special cu dmg: 9
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 4
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 3
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Squirtle: HP ramas: 61
+
+Feb 05, 2022 6:07:02 PM Battle run
+INFO: Batalia s-a incheiat
+
+Feb 05, 2022 6:07:02 PM Battle getWinner
+INFO: Pokemul Squirtle a castiagat
+Feb 05, 2022 6:07:02 PM Battle getWinner
+INFO: Noile sale statistici: pokemon.Pokemon{name='Squirtle', hp=66, attack=0, specialAttack=9, defense=9, specialDefense=12, firstAbility=pokemon.Ability{damage=4, stun=false, dodge=false, cooldown=3}, secondAbility=pokemon.Ability{damage=2, stun=true, dodge=false, cooldown=2}}
+
+Feb 05, 2022 6:07:02 PM Battle run
+INFO: A inceput batalia dintre pokemon.Pokemon{name='Squirtle', hp=66, attack=0, specialAttack=9, defense=9, specialDefense=12, firstAbility=pokemon.Ability{damage=4, stun=false, dodge=false, cooldown=3}, secondAbility=pokemon.Ability{damage=2, stun=true, dodge=false, cooldown=2}} 
+si pokemon.Pokemon{name='Psyduck', hp=47, attack=10, specialAttack=0, defense=9, specialDefense=12, firstAbility=pokemon.Ability{damage=2, stun=false, dodge=false, cooldown=4}, secondAbility=pokemon.Ability{damage=2, stun=true, dodge=false, cooldown=5}}
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Squirtle: atac abilitate cu dmg: 4
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 3
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 2
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Psyduck: HP ramas: 43
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Psyduck: atac abilitate cu dmg: 2
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 4
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 5
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Squirtle: HP ramas: 64
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Squirtle: atac special cu dmg: 9
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 2
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 1
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Psyduck: HP ramas: 43
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Psyduck: atac normal cu dmg: 10
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 3
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 4
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Squirtle: HP ramas: 63
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Squirtle: atac special cu dmg: 9
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 1
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Psyduck: HP ramas: 43
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Psyduck: atac normal cu dmg: 10
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 2
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 3
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Squirtle: HP ramas: 62
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Squirtle: atac special cu dmg: 9
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Psyduck: HP ramas: 43
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Psyduck: atac normal cu dmg: 10
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 1
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 2
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Squirtle: HP ramas: 61
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Squirtle: atac special cu dmg: 9
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Psyduck: HP ramas: 43
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Psyduck: atac normal cu dmg: 10
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 1
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Squirtle: HP ramas: 60
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Squirtle: atac special cu dmg: 9
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Psyduck: HP ramas: 43
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Psyduck: atac abilitate cu dmg: 2
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 4
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Squirtle: HP ramas: 58
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Squirtle: atac special cu dmg: 9
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 2
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Psyduck: HP ramas: 43
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Psyduck: atac normal cu dmg: 10
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 3
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 5
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Squirtle: HP ramas: 57
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Squirtle: atac special cu dmg: 9
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 1
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Psyduck: HP ramas: 43
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Psyduck: atac normal cu dmg: 10
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 2
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 4
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Squirtle: HP ramas: 56
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Squirtle: atac abilitate cu dmg: 2
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 2
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Psyduck: HP ramas: 41
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Squirtle: atac special cu dmg: 9
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 1
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Psyduck: HP ramas: 41
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Psyduck: atac normal cu dmg: 10
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 1
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 3
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Squirtle: HP ramas: 55
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Squirtle: atac special cu dmg: 9
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Psyduck: HP ramas: 41
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Psyduck: atac abilitate cu dmg: 2
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 4
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 2
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Squirtle: HP ramas: 53
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Squirtle: atac abilitate cu dmg: 2
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 2
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Psyduck: HP ramas: 39
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Squirtle: atac special cu dmg: 9
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 1
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Psyduck: HP ramas: 39
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Psyduck: atac normal cu dmg: 10
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 3
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 1
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Squirtle: HP ramas: 52
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Squirtle: atac abilitate cu dmg: 4
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 3
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 2
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Psyduck: HP ramas: 35
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Psyduck: atac normal cu dmg: 10
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 2
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 5
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Squirtle: HP ramas: 51
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Squirtle: atac special cu dmg: 9
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 2
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 1
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Psyduck: HP ramas: 35
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Psyduck: atac normal cu dmg: 10
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 1
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 4
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Squirtle: HP ramas: 50
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Squirtle: atac abilitate cu dmg: 2
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 1
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 2
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Psyduck: HP ramas: 33
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Squirtle: atac abilitate cu dmg: 4
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 3
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 1
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Psyduck: HP ramas: 29
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Psyduck: atac normal cu dmg: 10
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 3
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Squirtle: HP ramas: 49
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Squirtle: atac special cu dmg: 9
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Squirtle: atac abilitate cu dmg: 9
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 2
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 2
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Psyduck: HP ramas: 20
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Squirtle: atac special cu dmg: 9
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 1
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 1
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Psyduck: HP ramas: 20
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Psyduck: atac normal cu dmg: 10
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 2
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Squirtle: HP ramas: 48
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Squirtle: atac abilitate cu dmg: 2
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 2
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Psyduck: HP ramas: 18
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Squirtle: atac abilitate cu dmg: 4
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 3
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 1
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Psyduck: HP ramas: 14
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Psyduck: atac normal cu dmg: 10
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 4
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 1
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Squirtle: HP ramas: 47
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Squirtle: atac abilitate cu dmg: 2
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 2
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 2
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Psyduck: HP ramas: 12
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Psyduck: atac abilitate cu dmg: 2
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 3
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 5
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Squirtle: HP ramas: 45
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Squirtle: atac special cu dmg: 9
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 1
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 1
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Psyduck: HP ramas: 12
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Psyduck: atac normal cu dmg: 10
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 2
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 4
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Squirtle: HP ramas: 44
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Squirtle: atac abilitate cu dmg: 2
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 2
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Psyduck: HP ramas: 10
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Squirtle: atac abilitate cu dmg: 4
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 3
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 1
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Psyduck: HP ramas: 6
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Psyduck: atac normal cu dmg: 10
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 1
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 3
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Squirtle: HP ramas: 43
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Squirtle: atac abilitate cu dmg: 2
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 2
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 2
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Psyduck: HP ramas: 4
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Squirtle: atac special cu dmg: 9
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 1
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 1
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Psyduck: HP ramas: 4
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Psyduck: atac abilitate cu dmg: 2
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 4
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 2
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Squirtle: HP ramas: 41
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Squirtle: atac abilitate cu dmg: 4
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 3
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Psyduck: HP ramas: 0
+
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Psyduck: atac normal cu dmg: 10
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 1: 3
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Cooldown abilite 2: 1
+Feb 05, 2022 6:07:02 PM Battle changeesAfterBattle
+INFO: Squirtle: HP ramas: 40
+
+Feb 05, 2022 6:07:02 PM Battle run
+INFO: Batalia s-a incheiat
+
+Feb 05, 2022 6:07:02 PM Battle getWinner
+INFO: Pokemul Squirtle a castiagat
+Feb 05, 2022 6:07:02 PM Battle getWinner
+INFO: Noile sale statistici: pokemon.Pokemon{name='Squirtle', hp=67, attack=0, specialAttack=10, defense=10, specialDefense=13, firstAbility=pokemon.Ability{damage=4, stun=false, dodge=false, cooldown=3}, secondAbility=pokemon.Ability{damage=2, stun=true, dodge=false, cooldown=2}}
+

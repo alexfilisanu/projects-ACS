@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Alara",
+    "age": "32",
+    "pokemonsMap": {
+      "Jigglypuff": [ "Vitamine", "Vesta" ],
+      "Snorlax": [ "Brad de Craciun" ],
+      "Eevee": [ "Pelerina", "Sabiuta" ]
+    }
+  },
+  {
+    "name": "Crey",
+    "age": "21",
+    "pokemonsMap": {
+      "Pikachu": [ "Scut", "Bagheta Magica" ],
+      "Psyduck": [ "Sabiuta" ],
+      "Charmander": [ "Vitamine", "Pelerina", "Brad de Craciun" ]
+    }
+  }
+]

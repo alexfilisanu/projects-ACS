@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Clark",
+    "age": "12",
+    "pokemonsMap": {
+      "Meowth": [ "Vesta", "Pelerina", "Sabiuta" ],
+      "Psyduck": [ "Vitamine", "Pelerina", "Scut" ],
+      "Charmander": [ "Scut" ]
+    }
+  },
+  {
+    "name": "Asckiuza",
+    "age": "16",
+    "pokemonsMap": {
+      "Bulbasaur": ["Scut", "Vesta"],
+      "Eevee": [ "Vitamine", "Pelerina" ],
+      "Snorlax": [ "Vesta" ]
+    }
+  }
+]

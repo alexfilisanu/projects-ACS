@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Doc",
+    "age": "28",
+    "pokemonsMap": {
+      "Bulbasaur": [ "Scut", "Brad de Craciun" ],
+      "Jigglypuff": [ "Vitamine", "Pelerina" ],
+      "Vulpix": [ "Sabiuta", "Vitamine" ]
+    }
+  },
+  {
+    "name": "Vlarmo",
+    "age": "47",
+    "pokemonsMap": {
+      "Meowth": ["Scut", "Sabiuta"],
+      "Squirtle": [ "Pelerina" ],
+      "Psyduck": [ "Brad de Craciun", "Pelerina", "Vesta" ]
+    }
+  }
+]
