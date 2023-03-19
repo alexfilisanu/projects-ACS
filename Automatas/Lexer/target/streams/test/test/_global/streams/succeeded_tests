@@ -1,0 +1,7 @@
+#Successful Tests
+#Sun Dec 11 15:04:02 EET 2022
+PreprocessTests=1670763738204
+RegexParseTests=1670763738233
+DfaTests=1670763738330
+PrenexTests=1670763738204
+NfaTests=1670763738268
