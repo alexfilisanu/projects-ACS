@@ -1,0 +1,131 @@
+# FILISANU Mihai-Alexandru
+# 334 CB
+
+    Fiecare thread primeste:
+        - numarul thread ului;
+        - numarul thread urilor de tip map;
+        - numarul thread urilor de tip reduce;
+        - numele directorului pentru a crea ulterior fisierul in care va fi scris rezultaul;
+        - o coada cu fisierele ce trebuie deschise; 
+        - un vector de dimensiunea numarului de thread uri de tip reduce, care stocheaza la
+    fiecare valoare un set ce contine numerele puteri perfecte cu un anumit exponent
+
+    Inainte sa creez thread urile inserez in coada numele fisierelor ce trebuie deschise
+de catre thread urile map.
+    Creez toate thread urile in acelasi for. Ulterior le si pornesc in acelasi timp.
+
+    In functia thread urilor verific la inceput tipul thread ului. 
+    Daca acesta este de tip map incerc sa deschid primul fisier din coada si apoi il scot 
+(operatie sincronizata cu ajutorul unui mutex). Cat timp un fisier a fost deschis incep 
+prelucrarea numerelor din acesta. Pentru a verifica daca un numar este putere perfecta cu 
+un anumit exponent folosesc functia isPower care verifica acest fapt eficient prin cautare 
+binara. Daca aceasta functie returneaza true, atunci inserez numarul in set ul corespunator 
+pozitiei exp din vector. Dupa ce verific toate elementele din fisier il ichid si incerc sa 
+deschid unul nou (acest lucru este posibil doar daca coada de fisiere nu este goala; thread ul, 
+fiind mai rapid, termina deja prelucrarea unui fisier si poate sa inceapa prelucrarea unui nou 
+fisier -> alocare in mod dinamic de documente thread urilor de tip map). Daca este posibila 
+deschiderea unui nou fisier, sincronizez operatia cu ajuotul unui mutex, exact ca mai sus.
+    Daca thread ul este de tip reduce creez numele fisierului in care acesta trebuia sa scrie
+rezultatul(marimea set ului corespunzator indicelui thread ului din vector). Pentru ca am 
+folosit set uri nu este pozibila inserarea elementelor duplicate, deci nu mai este nevoie 
+sa le sterg ulterior. 
+    Intre cele doua verificari de tip ale thread urilor folosesc o bariera pentru sincronizare
+astfel incat sa se poata trece la verificare de tip reduce doar in momentul in care toate 
+thread urile de tip map si au incheiat executia.
+    
+    Output: 
+
+======== Testul 0 ========
+
+Se ruleaza varianta etalon cu M=1 si R=4...
+Rularea a durat 0.00 secunde
+OK
+
+Se ruleaza varianta cu M=2 si R=4...
+Rularea a durat 0.00 secunde
+OK
+
+Se ruleaza varianta cu M=4 si R=4...
+Rularea a durat 0.00 secunde
+OK
+
+==========================
+
+
+======== Testul 1 ========
+
+Se ruleaza varianta etalon cu M=1 si R=4...
+Rularea a durat 27.15 secunde
+OK
+
+Se ruleaza varianta cu M=2 si R=4...
+Rularea a durat 13.84 secunde
+OK
+
+Se ruleaza varianta cu M=4 si R=4...
+Rularea a durat 9.44 secunde
+OK
+
+Acceleratie 1-2 Mappers: 1.96
+Acceleratie 1-4 Mappers: 2.88
+==========================
+
+
+======== Testul 2 ========
+
+Se ruleaza varianta etalon cu M=1 si R=4...
+Rularea a durat 7.13 secunde
+OK
+
+Se ruleaza varianta cu M=2 si R=4...
+Rularea a durat 4.26 secunde
+OK
+
+Se ruleaza varianta cu M=4 si R=4...
+Rularea a durat 3.16 secunde
+OK
+
+Acceleratie 1-2 Mappers: 1.67
+Acceleratie 1-4 Mappers: 2.26
+==========================
+
+
+======== Testul 3 ========
+
+Se ruleaza varianta etalon cu M=1 si R=4...
+Rularea a durat 14.72 secunde
+OK
+
+Se ruleaza varianta cu M=2 si R=4...
+Rularea a durat 7.93 secunde
+OK
+
+Se ruleaza varianta cu M=4 si R=4...
+Rularea a durat 5.39 secunde
+OK
+
+Acceleratie 1-2 Mappers: 1.86
+Acceleratie 1-4 Mappers: 2.73
+==========================
+
+
+======== Testul 4 ========
+
+Se ruleaza varianta etalon cu M=1 si R=4...
+Rularea a durat 1.09 secunde
+OK
+
+Se ruleaza varianta cu M=2 si R=4...
+Rularea a durat 0.64 secunde
+OK
+
+Se ruleaza varianta cu M=4 si R=4...
+Rularea a durat 0.35 secunde
+OK
+
+==========================
+
+
+Scor scalabilitate: 70/70
+Scor corectitudine: 50/50
+Scor total:       120/120
