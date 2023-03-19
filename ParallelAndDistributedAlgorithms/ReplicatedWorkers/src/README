@@ -1,0 +1,86 @@
+FILISANU Mihai-Alexandru
+334CB
+
+    Pentru realizarea temei am folosit 2ExecutorService(prezentat in laborator 7), problema propusa fiind
+de tipul Replicated Workers. Pentru primul nivel de paralelizare(citirea de catre angajati a comenzilor),
+cate un thread citeste o linie din fisierul orders_txt si trimite apoi spre procesare comenzile catre al 2lea
+ExecutorService(care cauta toate produsele din comenzi in order_products_txt).
+    Pentru citirea si scrierea din fisiere am folosit BufferedReader si BufferedWriter pentru ca sunt thread-safe
+si nu mai este nevoie de a folosi synchronized.
+
+Output checker local:
+VMCHECKER_TRACE_CLEANUP
+Thu Dec 15 14:55:01 EET 2022
+
+======== Testul 0 ========
+
+End test
+
+==========================
+
+
+======== Testul 1 ========
+
+End test
+
+==========================
+
+
+======== Testul 2 ========
+
+End test
+
+==========================
+
+
+======== Testul 3 ========
+
+End test
+
+==========================
+
+
+======== Testul 4 ========
+
+End test
+
+==========================
+
+
+======== Testul 5 ========
+
+End test
+
+==========================
+
+
+======== Testul 6 ========
+
+End test
+
+==========================
+
+
+======== Testul 7 ========
+
+End test
+
+==========================
+
+
+======== Testul 8 ========
+
+End test
+
+==========================
+
+
+======== Testul 9 ========
+
+End test
+
+==========================
+
+
+Total: 100/100
+
