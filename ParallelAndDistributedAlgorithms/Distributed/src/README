@@ -1,0 +1,28 @@
+FILISANU Mihai - Alexandru
+334CB
+
+        Mi am definit mai multe functii ajutatoare:
+    - MPI_Send_with_log afiseaza conexiunea specificata in enunt si realizeaza MPI_Send
+    - print_topology returneaza topologia in forma in care trebuie afisata
+    - send_task_to_workers trimite taskurile workerilor
+    - recive_result_from_workers primeste rezultatele de la workeri
+
+        In main, mi am definit topology_workers_number, care este un vector ce retine numarul de 
+    workeri pentru fiecare proces coordinator si topolgy, care este o matrice ce retine topologia.
+
+        Executia programului difera de rolul pe care il are procesul(coordinator / worker). In cazul 
+    in care este de primul tip realizez citirea din fisierul cluster corespunzator si actualizez 
+    valorile specifice in cele 2 structuri amintite mai sus. Pentru fiecare proces trimit la dreapta
+    (in inel) valoarile citite pentru a ajunge la toti coordonatorii. Dupa ce am trimis si primit toate 
+    valorile topologia este completa si poate fi afisata. Ulterior fiecare coordonator trimite topologia 
+    completa workerilor sai. 
+
+        Aproximez numarul de calcule pe care trebuie sa l faca un worker la N / numarul total de workeri. 
+    Daca procesul este ROOT initializez vectorul cu valorile specificate, trimit workerilor taskurile 
+    care li se cuvin, primesc rezultatele de la acestia si apoi trimit vectorul la urmatorul proces 
+    coordonator(in dreapta). Cand si coordonatorul 3 a realizat operatiile de mai sus(exceptand initializarea 
+    vectorului) are un vector complet pe care il trimite coordonatorrului ROOT, care il afiseaza.
+
+        Daca procesul este worker, acesta trebuie doar sa primeasca topologia completa de la master, sa o 
+    afiseze, iar apoi sa efectueze calculele care i au fost indicate. Dupa efectuarea calculelelor, acesta 
+    trimite rezultatele la master.
