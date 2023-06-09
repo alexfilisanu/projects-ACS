@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "graded_test.h": "c",
+        "syscall.h": "c"
+    }
+}

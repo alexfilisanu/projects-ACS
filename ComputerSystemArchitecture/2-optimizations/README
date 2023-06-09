@@ -1,0 +1,69 @@
+Filisanu Mihai-Alexandru
+334CB
+
+Implementare solver_blas:
+    - am folosit cblas_dcopy pentru copierea unei matrici in alta
+	- am folosit cblas_dtrmm pentru inmultirea dintre o matrice normala si una triunghilara
+	- am folosit cblas_dgemm pentru inmultirea matricilor normale
+    - prin inlantuirea acestor operatii, la final, dupa ultima inmultire am obtinut rezultatul dorit
+
+Implementare solver_neopt:
+    - am definit functii pentru inmultirea matricilor normale, triunghilare superioare si inferioare,
+adunarea matricilor si transpunerea unei matrici normale sau superior triunghilare
+    - am folosit aceste functii pentru a calcula rezultatul conform formulei din enunt: 
+C = A * B * A^t + B^t * B^t, salvand rezultatele intermediare la fiecare pas
+    - in implementarea functiilor nu am folosit nicio optimizare, decat salvarea sumei intr-o variabila
+pe care o atribui rezultatului final
+
+Implementare solver_opt_m:
+    - am pastrat implementarea de la solver_neopt, dar am facut urmatoarele optimizari(prezentate in 
+https://ocw.cs.pub.ro/courses/asc/laboratoare/05) pentru functiile de inmultiri ale matricilor:
+        - am folosit keyword-ul register pentru compilatorul va putea avea grija ca respectiva 
+variabila sa fie tinuta intr-un registru, permitand astfel o utilizare optima a acestei resurse
+        - am folosit optimizarea accesului la vectori prin calculul manual al adresei elementului
+in cadrul unui vector, in locul folosirii indexerii 
+
+Rezultate rulari locale:
+    Run=./tema2_blas: N=400: Time=0.185435
+    Run=./tema2_blas: N=800: Time=1.414484
+    Run=./tema2_blas: N=1200: Time=4.688434
+
+    Run=./tema2_neopt: N=400: Time=0.793959
+    Run=./tema2_neopt: N=800: Time=6.851432
+    Run=./tema2_neopt: N=1200: Time=21.931036
+
+    Run=./tema2_opt_m: N=400: Time=0.374118
+    Run=./tema2_opt_m: N=800: Time=3.145700
+    Run=./tema2_opt_m: N=1200: Time=10.144764
+
+Analiza fisierelor .cache:
+    - tema2_blas: rata mica de pierderi in cache-ul de instructiuni, dar mare in cel de date. Rata de 
+mispredicts a branchurilor este, de asemenea, mica, de 0,3%.
+    - tema2_neopt: este o rata semnificativ mai mare de pierdere in cache-ul de date, 
+cu aproximativ 5% din accesările de cache de date ducând la o pierdere. Rata de pierdere 
+in cache-ul de instructiuni este mica, indicand faptul ca cache-ul de instructiuni este bine folosit.
+    - tema2_opt_m: optimizarile pote fi observat in valorile de iesire, fiind o reducere semnificativa
+in numarul de operatiii realizare, dar rata de pierdere in cache-ul de date, este mai marecat. Rata de 
+mispredicts a branchurilor este aproximativ identica in ambele cazuri, mai mare decat in implementarea blas.
+
+Analiza performantei:
+    Am folosit ca date de intrare pentru generarea graficului(chart.jpg):
+5
+200 54 out0
+400 123 out1
+800 456 out2
+1200 789 out3
+1600 1545 out4
+    
+    Am rulat accest test pe partitia nehalem pentru toate cele 3 implementari si am obtinut 
+timpii pe baza carora am creat graficul chart.jpg.
+    - implementarea cu BLAS este cea mai rapida, cu timpi de executie mici pentru toate matricile, 
+indiferent de dimensiunea acestora. Acest comportament se datoreaza faptului ca BLAS este o 
+biblioteca speciala pentru calculul matricial, folosita atunci cand este nevoie de optimizari maximale
+    - implementarea neoptimizata este cea mai lenta, cu cei mai mari timpi de executie dintre cele 3
+implementari(x6 fata de BLAS). Acest comportament se datoreaza faptului ca aceasta implementare efectueaza
+multe accesari de memorie, operatie foarte costisitoare.
+    - implementarea optimizata are timpi injumatatiti fata de cea neoptimizata, dar mai slabi decat cei 
+oferiti de implementarea BLAS. Acest comportament se datorează faptului ca aceasta implementare optimizata 
+accesarile de memorie si foloseste keyword-ul register. Aceasta implementare putea fi si mai mult imbunatatita
+prin folosirea unui loop k-i-j sau i-k-j, nu i-j-k ca cel folosit in implementarea actuala.

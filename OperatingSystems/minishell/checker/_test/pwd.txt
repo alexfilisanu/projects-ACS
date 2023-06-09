@@ -1,0 +1,1 @@
+/home/fili/temeSO/tema4/content/assignments/minishell/checker/_test
