@@ -1,0 +1,80 @@
+Filisanu Mihai-Alexandru
+grupa 341C3
+
+TEMA SM
+
+Am implementat 5 modalitati diferite de paralelizare a algoritmului de sortare Cocktail.
+Pentru varianta seriala am folosit codul sursa de la: https://www.geeksforgeeks.org/cocktail-sort/
+pe care l-am modificat a.i. limbajul sa fie C.
+
+Algoritmul se rezuma la urmatorii pasi:
+1. Forward pass: se itereaza de la stanga la dreapta si, la fel ca la Bubble sort, se inverseaza elementele
+prin simpla lor comparare
+2. Backward pass: se itereaza de la dreata la stanga si se inverseaza elementele incepand cu primul nesortat.
+Pasii se repeta pana la obtinerea array-ului sortat.
+
+Complexitatea algoritmului este O(n) pentru best case scenario si O(n^2) in cazul average.
+
+Timpul de rulare pentru varianta seriala este de 22s.
+
+Pentru usurinta implementarii, am definit headerul utilities.h:
+- am inclus definitiile functiilor
+- constantele NUM_ELEMENTS si NUM_THREADS 
+- structura auxiliara ThreadArgs care reprezinta un container cu informatii transmise fiecarui thread (a fost 
+utilizat pentru variantele cu pthreads)
+
+Ca date de test, am folosit un array de 100000 de elemente pe care am aplicat algoritmul de shuffle.
+
+Rezultatele (timpii de executie pentru fiecare versiune in parte) sunt:
+
+./cocktailsort-serial
+The array is sorted.
+Elapsed time: 22.951655 seconds
+
+./cocktailsort-openmp
+The array is sorted.
+Elapsed time: 2.666267 seconds
+
+mpiexec -n 4 ./cocktailsort-mpi
+The array is sorted.
+Elapsed time: 1.734400 seconds
+
+./cocktailsort-pthreads
+The array is sorted.
+Elapsed time: 1.785456 seconds
+
+mpiexec -n 4 ./cocktailsort-mpi-openmp
+The array is sorted.
+Elapsed time: 0.881302 seconds
+
+mpiexec -n 4 ./cocktailsort-mpi-pthreads
+The array is sorted.
+Elapsed time: 0.392504 seconds
+
+Interpretarea rezultatelor:
+- in mod evident cea mai performanta varianta a fost un hybrid intre mpi si pthreads
+- pe locul 2, mpi cu openmp
+- cel mai slab timp de executie il are varianta openmp
+
+Descrierea implementarilor:
+1. OpenMP:
+    - directiva #pragma omp parallel for a generat cele mai bune rezultate, deoarece se bazeaza pe un schedule automat
+    si a impartit workload ul bazandu se pe mecanisme interne de sincronizare.
+2. MPI:
+    - scopul principal a acestei versiuni de cod este să distribuie un array între mai multe procese, 
+să sorteze fiecare fragment local al tabloului folosind algoritmul Cocktail Sort, iar apoi să îmbine fragmentele sortate 
+pentru a obține arrayul final sortat
+    - am transmis prin braodcast numarul de elemente
+    - am stabilit un chunk_size dupa o formula care tine cont de numarului rank ului thread ului ca sa ma 
+asigur ca am un workload balanced pe toate threadurile
+    - am folosit sincronizarea cu o bariera ca sa ma asigur ca arrayul este initializat inainte de a trece la partea de sortare.
+3. Pthreads:
+    - am creat un numar de thread uri, fiecarui thread i-am transmis o parte din arrayul de sortat folosind o structura auxiliara
+    - la final am dat join tuturor threadurilor si am facut merge la rezultatele intermediare.
+4. MPI & OpenMP:
+    - am pastrat partea de initializare cu MPI si modalitatea de transmitere a datelor
+    - in functia de sortare in sine am folosit OpenMP ca in varianta cu OpenMP simplu.
+5. MPI & Pthreads:
+    - am pastrat partea de MPI 
+    - am folosit pthreads in functia de parallelCocktailSort creand un numar de thread uri si ajustand workloadul astfel incat
+performanta algoritmului sa fie mult mai buna.
