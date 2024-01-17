@@ -1,0 +1,40 @@
+# Ignore compiled files and directories
+bin/
+build/
+out/
+target/
+
+# Ignore generated files
+*.class
+*.jar
+*.war
+*.ear
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Ignore IDE-specific files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Ignore build files for C/C++ projects
+*.o
+*.a
+*.so
+*.dll
+*.exe
+
+# Ignore Java-related files
+*.class
+*.jar
+*.war
+*.ear
+
+# Ignore Python virtual environment
+venv/
+
+# Ignore OS-specific files
+.DS_Store
