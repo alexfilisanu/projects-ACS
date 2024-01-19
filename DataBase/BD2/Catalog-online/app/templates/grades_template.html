@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>All Grades</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <h1>Toate notele</h1>
+
+     <ul style="list-style-type: none; padding: 0;">
+        <li><strong>Data --- Nota --- Materie</strong></li>
+        {% for grade in grades %}
+            <li>{{ grade[0].strftime('%Y-%m-%d') }}, {{ grade[1] }}, {{ grade[2] }}</li>
+        {% endfor %}
+    </ul>
+
+    <br><br>
+    <a href="/dashboard">Back to Dashboard</a>
+</body>
+</html>

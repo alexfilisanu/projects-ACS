@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student Dashboard</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <h1>Salut, {{ session['username'].split('@')[0] }}!</h1>
+
+    <form action="/get_grades" method="post">
+        <button type="submit">Toate notele</button>
+    </form>
+
+    <form action="/get_absences" method="post">
+        <button type="submit">Toate absentele</button>
+    </form>
+
+    <br><br>
+    <a href="/logout">Logout</a>
+</body>
+</html>

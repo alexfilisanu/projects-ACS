@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Teacher Dashboard</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <header>
+        <h1>Buna ziua, {{ session['username'].split('@')[0] }}!</h1>
+    </header>
+
+    <form action="/absences_in_class" method="post">
+        <label for="className">Class Name:</label>
+        <input type="text" id="className" name="className" required>
+        <br>
+        <button type="submit">Genereaza Raport</button>
+    </form>
+
+
+    <h2>Raport pentru clasa: {{ request.form['className'] }}</h2>
+
+    <canvas id="pieChart" width="400" height="400"></canvas>
+
+    <script>
+        var data = [{{ num_unmotivated_absences[0]|int }}, {{ num_motivated_absences[0]|int }}];
+        var ctx = document.getElementById('pieChart').getContext('2d');
+        var myPieChart = new Chart(ctx, {
+            type: 'pie',
+            data: {
+                labels: ['Absente nemotivate', 'Absente motivate'],
+                datasets: [{
+                    data: data,
+                    backgroundColor: [
+                        'rgba(255, 99, 132, 0.5)',
+                        'rgba(54, 162, 235, 0.5)',
+                    ],
+                }]
+            },
+            options: {
+                responsive: false,
+                maintainAspectRatio: false,
+            }
+        });
+    </script>
+
+    <br><br>
+    <a href="/dashboard">Back to Dashboard</a>
+</body>
+</html>

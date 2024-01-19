@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Teacher Dashboard</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <h1>Buna ziua, {{ session['username'].split('@')[0] }}!</h1>
+    <button onclick="toggleForm()">Calculeaza Raport "Elevi cu media minima la materie"</button>
+
+    <div id="reportForm" style="display: none;">
+        <form action="/students_above_avg_in_subject" method="post">
+            <label for="subject">Materie:</label>
+            <input type="text" id="subject" name="subject" required>
+            <br>
+            <label for="grade">Medie minima:</label>
+            <input type="number" id="grade" name="grade" required>
+            <br>
+            <button type="submit">Genereaza Raport</button>
+        </form>
+    </div>
+
+    <br>
+
+    <button onclick="toggleClassForm()">Calculeaza Raport "Absente pe clasa"</button>
+
+    <div id="classForm" style="display: none;">
+        <form action="/absences_in_class" method="post">
+            <label for="className">Nume Clasa:</label>
+            <input type="text" id="className" name="className" required>
+            <br>
+            <button type="submit">Genereaza Raport</button>
+        </form>
+    </div>
+
+    <br>
+
+    <button onclick="toggleGradeForm()">Calculeaza Raport "Materii peste media minima in clasa"</button>
+
+    <div id="gradeForm" style="display: none;">
+        <form action="/subjects_above_avg_in_class" method="post">
+            <label for="classNameMin">Nume Clasa:</label>
+            <input type="text" id="classNameMin" name="classNameMin" required>
+            <br>
+            <label for="gradeMin">Medie minima:</label>
+            <input type="number" id="gradeMin" name="gradeMin" required>
+            <br>
+            <button type="submit">Genereaza Raport</button>
+        </form>
+    </div>
+
+    <br><br>
+    <a href="/logout">Logout</a>
+
+    <script>
+        function toggleForm() {
+            var formDiv = document.getElementById('reportForm');
+            formDiv.style.display = (formDiv.style.display === 'none' || formDiv.style.display === '') ? 'block' : 'none';
+        }
+
+        function toggleClassForm() {
+            var classFormDiv = document.getElementById('classForm');
+            classFormDiv.style.display = (classFormDiv.style.display === 'none' || classFormDiv.style.display === '') ? 'block' : 'none';
+        }
+
+        function toggleGradeForm() {
+            var gradeFormDiv = document.getElementById('gradeForm');
+            gradeFormDiv.style.display = (gradeFormDiv.style.display === 'none' || gradeFormDiv.style.display === '') ? 'block' : 'none';
+        }
+    </script>
+</body>
+</html>
